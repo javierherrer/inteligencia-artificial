@@ -6,6 +6,7 @@ algoritmos que se piden. Utilizaremos el modulo de control para implementar los 
 algoritmos (A*, CU). Para una adecuada separación del módulo de control (MAIN) del resto de
 módulos puedes consultar el ejemplo del 8-puzzle de la lección de control en sistemas de
 producción.
+
 La **segunda tarea** consistirá en la resolución de **sudokus** mediante la **propagación de
 restricciones**. No se ha explicado en teoría este tema, por lo que este trabajo servirá para
 familiarizarte con los problemas de satisfacción de restricciones. En los **problemas de
@@ -24,6 +25,7 @@ debes leer el capítulo 5 del libro “Artificial Intelligence” de Stuart Russ
 el problema de resolución de sudokus utilizaras el código en el paquete
 `aima.core.search.cps`, y estudiarás el ejemplo de coloreado del mapa de Australia que
 puedes encontrar en el paquete `aima.gui.applications.search.csp`.
+
 Finalmente, la **tercera tarea** combina la idea de búsqueda local con la propagación de
 restricciones en el algoritmo `min-conflicts`. La idea es aplicar los algoritmos de búsqueda
 local, en los que se parte de una configuración completa del estado, y aplicar la propagación
