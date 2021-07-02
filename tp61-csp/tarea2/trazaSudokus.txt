@@ -1,0 +1,1143 @@
+{Cell at [1][5]=1, Cell at [2][8]=2, Cell at [3][5]=5, Cell at [4][7]=5, Cell at [0][2]=7, Cell at [2][6]=9, Cell at [4][0]=6, Cell at [6][1]=7, Cell at [7][3]=9, Cell at [7][7]=1, Cell at [0][4]=2, Cell at [1][0]=8, Cell at [5][4]=4, Cell at [6][8]=4, Cell at [8][0]=4, Cell at [0][1]=4, Cell at [2][1]=3, Cell at [6][6]=3, Cell at [8][3]=2, Cell at [4][3]=8, Cell at [8][4]=7, Cell at [8][6]=8, Cell at [4][4]=1, Cell at [4][1]=9, Cell at [4][8]=7, Cell at [6][5]=8, Cell at [7][8]=6, Cell at [1][8]=3, Cell at [7][6]=7, Cell at [6][7]=2, Cell at [8][7]=9, Cell at [8][8]=5, Cell at [0][7]=8, Cell at [0][8]=1, Cell at [5][7]=3, Cell at [5][3]=6, Cell at [2][0]=1, Cell at [2][2]=6, Cell at [2][5]=7, Cell at [3][7]=6, Cell at [3][3]=7, Cell at [6][3]=1, Cell at [1][3]=4, Cell at [1][7]=7, Cell at [2][4]=8, Cell at [0][3]=3, Cell at [2][3]=5, Cell at [2][7]=4, Cell at [3][0]=2, Cell at [6][2]=9, Cell at [0][0]=9, Cell at [0][5]=6, Cell at [0][6]=5, Cell at [1][1]=5, Cell at [1][2]=2, Cell at [1][4]=9, Cell at [1][6]=6, Cell at [3][1]=8, Cell at [3][2]=4, Cell at [3][4]=3, Cell at [3][6]=1, Cell at [3][8]=9, Cell at [4][2]=3, Cell at [4][5]=2, Cell at [4][6]=4, Cell at [5][0]=7, Cell at [5][1]=1, Cell at [5][2]=5, Cell at [5][5]=9, Cell at [5][6]=2, Cell at [5][8]=8, Cell at [6][0]=5, Cell at [6][4]=6, Cell at [7][0]=3, Cell at [7][1]=2, Cell at [7][2]=8, Cell at [7][4]=5, Cell at [7][5]=4, Cell at [8][1]=6, Cell at [8][2]=1, Cell at [8][5]=3}
+Time to solve = 0.328segundos
+SOLUCION:
+947326581
+852491673
+136587942
+284735169
+693812457
+715649238
+579168324
+328954716
+461273895
+Sudoku solucionado correctamente
+---------
+......94.
+....9...5
+3....5.7.
+.8.4..1..
+463......
+.....7.8.
+8..7.....
+7......28
+.5.26....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][4]=9, Cell at [5][5]=7, Cell at [2][5]=5, Cell at [3][6]=1, Cell at [7][8]=8, Cell at [0][6]=9, Cell at [1][8]=5, Cell at [2][0]=3, Cell at [3][3]=4, Cell at [4][2]=3, Cell at [5][7]=8, Cell at [6][3]=7, Cell at [8][4]=6, Cell at [6][0]=8, Cell at [7][7]=2, Cell at [8][1]=5, Cell at [8][3]=2, Cell at [0][7]=4, Cell at [3][1]=8, Cell at [4][1]=6, Cell at [7][0]=7, Cell at [2][7]=7, Cell at [4][0]=4, Cell at [4][7]=5, Cell at [4][6]=7, Cell at [8][6]=4, Cell at [8][2]=1, Cell at [8][5]=8, Cell at [8][8]=7, Cell at [8][0]=9, Cell at [8][7]=3, Cell at [7][2]=4, Cell at [6][2]=6, Cell at [6][6]=5, Cell at [6][1]=2, Cell at [7][6]=6, Cell at [7][1]=3, Cell at [0][1]=1, Cell at [1][1]=7, Cell at [2][1]=4, Cell at [5][1]=9, Cell at [1][2]=8, Cell at [4][8]=2, Cell at [0][0]=2, Cell at [0][2]=5, Cell at [0][3]=8, Cell at [0][4]=7, Cell at [0][5]=6, Cell at [0][8]=3, Cell at [1][0]=6, Cell at [1][3]=3, Cell at [1][5]=4, Cell at [1][6]=2, Cell at [1][7]=1, Cell at [2][2]=9, Cell at [2][3]=1, Cell at [2][4]=2, Cell at [2][6]=8, Cell at [2][8]=6, Cell at [3][0]=5, Cell at [3][2]=7, Cell at [3][4]=3, Cell at [3][5]=2, Cell at [3][7]=6, Cell at [3][8]=9, Cell at [4][3]=9, Cell at [4][4]=8, Cell at [4][5]=1, Cell at [5][0]=1, Cell at [5][2]=2, Cell at [5][3]=6, Cell at [5][4]=5, Cell at [5][6]=3, Cell at [5][8]=4, Cell at [6][4]=4, Cell at [6][5]=3, Cell at [6][7]=9, Cell at [6][8]=1, Cell at [7][3]=5, Cell at [7][4]=1, Cell at [7][5]=9}
+Time to solve = 0.102segundos
+SOLUCION:
+215876943
+678394215
+349125876
+587432169
+463981752
+192657384
+826743591
+734519628
+951268437
+Sudoku solucionado correctamente
+---------
+.2......6
+....41...
+..78....1
+......7..
+..37.....
+6..412...
+.1..74..5
+..8.5..7.
+.....39..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][6]=7, Cell at [0][1]=2, Cell at [0][8]=6, Cell at [4][2]=3, Cell at [5][0]=6, Cell at [7][7]=7, Cell at [8][6]=9, Cell at [2][2]=7, Cell at [2][8]=1, Cell at [6][1]=1, Cell at [7][2]=8, Cell at [1][4]=4, Cell at [1][5]=1, Cell at [2][3]=8, Cell at [4][3]=7, Cell at [6][8]=5, Cell at [8][5]=3, Cell at [5][3]=4, Cell at [7][4]=5, Cell at [5][4]=1, Cell at [5][5]=2, Cell at [6][4]=7, Cell at [6][5]=4, Cell at [0][4]=9, Cell at [5][2]=9, Cell at [1][2]=5, Cell at [5][8]=8, Cell at [5][7]=3, Cell at [5][1]=7, Cell at [5][6]=5, Cell at [8][8]=4, Cell at [8][1]=5, Cell at [8][0]=7, Cell at [3][1]=4, Cell at [4][4]=6, Cell at [4][1]=8, Cell at [0][3]=3, Cell at [1][8]=7, Cell at [1][1]=3, Cell at [2][1]=6, Cell at [7][1]=9, Cell at [7][8]=3, Cell at [1][3]=6, Cell at [3][3]=5, Cell at [3][8]=9, Cell at [4][8]=2, Cell at [7][5]=6, Cell at [8][4]=8, Cell at [0][5]=7, Cell at [2][4]=2, Cell at [2][5]=5, Cell at [3][4]=3, Cell at [3][5]=8, Cell at [4][5]=9, Cell at [0][6]=8, Cell at [0][0]=1, Cell at [0][2]=4, Cell at [0][7]=5, Cell at [1][0]=8, Cell at [1][6]=2, Cell at [1][7]=9, Cell at [2][0]=9, Cell at [2][6]=3, Cell at [2][7]=4, Cell at [3][0]=2, Cell at [3][2]=1, Cell at [3][7]=6, Cell at [4][0]=5, Cell at [4][6]=4, Cell at [4][7]=1, Cell at [6][0]=3, Cell at [6][2]=2, Cell at [6][3]=9, Cell at [6][6]=6, Cell at [6][7]=8, Cell at [7][0]=4, Cell at [7][3]=2, Cell at [7][6]=1, Cell at [8][2]=6, Cell at [8][3]=1, Cell at [8][7]=2}
+Time to solve = 0.44segundos
+SOLUCION:
+124397856
+835641297
+967825341
+241538769
+583769412
+679412538
+312974685
+498256173
+756183924
+Sudoku solucionado correctamente
+---------
+1.....3.8
+.6.4.....
+.........
+2.3.1....
+.......75
+8........
+.7.5...6.
+....8.2..
+.4.......
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][3]=4, Cell at [3][4]=1, Cell at [4][7]=7, Cell at [4][8]=5, Cell at [7][4]=8, Cell at [7][6]=2, Cell at [8][1]=4, Cell at [0][6]=3, Cell at [0][8]=8, Cell at [1][1]=6, Cell at [3][2]=3, Cell at [5][0]=8, Cell at [6][3]=5, Cell at [6][7]=6, Cell at [0][0]=1, Cell at [6][1]=7, Cell at [3][0]=2, Cell at [4][1]=1, Cell at [6][0]=9, Cell at [5][1]=9, Cell at [2][1]=8, Cell at [7][1]=3, Cell at [0][1]=2, Cell at [3][1]=5, Cell at [8][0]=5, Cell at [5][2]=7, Cell at [7][2]=1, Cell at [4][2]=6, Cell at [7][0]=6, Cell at [4][0]=4, Cell at [4][6]=8, Cell at [3][7]=9, Cell at [0][7]=4, Cell at [7][7]=5, Cell at [2][7]=2, Cell at [1][7]=1, Cell at [8][7]=8, Cell at [5][7]=3, Cell at [8][2]=2, Cell at [6][2]=8, Cell at [5][3]=6, Cell at [0][3]=9, Cell at [1][5]=8, Cell at [3][3]=8, Cell at [1][4]=2, Cell at [7][3]=7, Cell at [1][8]=7, Cell at [1][6]=5, Cell at [2][0]=7, Cell at [2][2]=4, Cell at [0][2]=5, Cell at [1][0]=3, Cell at [1][2]=9, Cell at [3][5]=7, Cell at [0][5]=6, Cell at [0][4]=7, Cell at [6][4]=3, Cell at [2][3]=3, Cell at [2][4]=5, Cell at [2][5]=1, Cell at [2][6]=9, Cell at [2][8]=6, Cell at [3][6]=6, Cell at [3][8]=4, Cell at [4][3]=2, Cell at [4][4]=9, Cell at [4][5]=3, Cell at [5][4]=4, Cell at [5][5]=5, Cell at [5][6]=1, Cell at [5][8]=2, Cell at [6][5]=2, Cell at [6][6]=4, Cell at [6][8]=1, Cell at [7][5]=4, Cell at [7][8]=9, Cell at [8][3]=1, Cell at [8][4]=6, Cell at [8][5]=9, Cell at [8][6]=7, Cell at [8][8]=3}
+Time to solve = 0.103segundos
+SOLUCION:
+125976348
+369428517
+784351926
+253817694
+416293875
+897645132
+978532461
+631784259
+542169783
+Sudoku solucionado correctamente
+---------
+2....1.9.
+.1..3.7..
+9..8...2.
+......85.
+.6.4.....
+....7...3
+.2.3...6.
+...5.....
+1.9...2.5
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [4][1]=6, Cell at [5][4]=7, Cell at [0][5]=1, Cell at [5][8]=3, Cell at [7][3]=5, Cell at [1][4]=3, Cell at [3][6]=8, Cell at [4][3]=4, Cell at [8][2]=9, Cell at [0][0]=2, Cell at [1][1]=1, Cell at [1][6]=7, Cell at [2][0]=9, Cell at [3][7]=5, Cell at [6][1]=2, Cell at [6][3]=3, Cell at [8][8]=5, Cell at [0][7]=9, Cell at [2][3]=8, Cell at [2][7]=2, Cell at [6][7]=6, Cell at [8][0]=1, Cell at [8][6]=2, Cell at [4][6]=9, Cell at [0][3]=7, Cell at [8][3]=6, Cell at [1][7]=4, Cell at [4][8]=2, Cell at [5][7]=1, Cell at [4][7]=7, Cell at [2][8]=1, Cell at [6][6]=1, Cell at [7][6]=4, Cell at [3][8]=4, Cell at [5][6]=6, Cell at [3][0]=3, Cell at [3][1]=9, Cell at [3][5]=6, Cell at [2][5]=5, Cell at [0][6]=5, Cell at [2][6]=3, Cell at [8][4]=8, Cell at [7][7]=8, Cell at [8][7]=3, Cell at [7][0]=7, Cell at [0][1]=8, Cell at [0][2]=3, Cell at [0][4]=4, Cell at [0][8]=6, Cell at [1][0]=6, Cell at [1][2]=5, Cell at [1][3]=2, Cell at [1][5]=9, Cell at [1][8]=8, Cell at [2][1]=7, Cell at [2][2]=4, Cell at [2][4]=6, Cell at [3][2]=7, Cell at [3][3]=1, Cell at [3][4]=2, Cell at [4][0]=8, Cell at [4][2]=1, Cell at [4][4]=5, Cell at [4][5]=3, Cell at [5][0]=4, Cell at [5][1]=5, Cell at [5][2]=2, Cell at [5][3]=9, Cell at [5][5]=8, Cell at [6][0]=5, Cell at [6][2]=8, Cell at [6][4]=9, Cell at [6][5]=4, Cell at [6][8]=7, Cell at [7][1]=3, Cell at [7][2]=6, Cell at [7][4]=1, Cell at [7][5]=2, Cell at [7][8]=9, Cell at [8][1]=4, Cell at [8][5]=7}
+Time to solve = 0.212segundos
+SOLUCION:
+283741596
+615239748
+974865321
+397126854
+861453972
+452978613
+528394167
+736512489
+149687235
+Sudoku solucionado correctamente
+---------
+..7..8...
+..6.2.3..
+.3......9
+.1..5..6.
+....1....
+.7.9....2
+........4
+.83..4...
+26....51.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][5]=8, Cell at [7][5]=4, Cell at [1][6]=3, Cell at [2][8]=9, Cell at [3][7]=6, Cell at [4][4]=1, Cell at [5][3]=9, Cell at [6][8]=4, Cell at [0][2]=7, Cell at [1][4]=2, Cell at [5][8]=2, Cell at [1][2]=6, Cell at [3][4]=5, Cell at [8][0]=2, Cell at [8][6]=5, Cell at [8][7]=1, Cell at [2][1]=3, Cell at [3][1]=1, Cell at [5][1]=7, Cell at [7][2]=3, Cell at [7][1]=8, Cell at [8][1]=6, Cell at [5][5]=6, Cell at [7][8]=6, Cell at [0][8]=1, Cell at [7][4]=7, Cell at [8][3]=8, Cell at [2][4]=4, Cell at [6][1]=9, Cell at [8][2]=4, Cell at [5][2]=5, Cell at [6][0]=7, Cell at [7][0]=5, Cell at [6][2]=1, Cell at [0][0]=9, Cell at [4][1]=2, Cell at [4][5]=7, Cell at [2][5]=1, Cell at [2][0]=8, Cell at [2][2]=2, Cell at [1][3]=7, Cell at [6][6]=8, Cell at [4][6]=9, Cell at [0][1]=5, Cell at [0][3]=6, Cell at [0][4]=3, Cell at [0][6]=4, Cell at [0][7]=2, Cell at [1][0]=1, Cell at [1][1]=4, Cell at [1][5]=9, Cell at [1][7]=8, Cell at [1][8]=5, Cell at [2][3]=5, Cell at [2][6]=6, Cell at [2][7]=7, Cell at [3][0]=4, Cell at [3][2]=9, Cell at [3][3]=3, Cell at [3][5]=2, Cell at [3][6]=7, Cell at [3][8]=8, Cell at [4][0]=6, Cell at [4][2]=8, Cell at [4][3]=4, Cell at [4][7]=5, Cell at [4][8]=3, Cell at [5][0]=3, Cell at [5][4]=8, Cell at [5][6]=1, Cell at [5][7]=4, Cell at [6][3]=2, Cell at [6][4]=6, Cell at [6][5]=5, Cell at [6][7]=3, Cell at [7][3]=1, Cell at [7][6]=2, Cell at [7][7]=9, Cell at [8][4]=9, Cell at [8][5]=3, Cell at [8][8]=7}
+Time to solve = 0.056segundos
+SOLUCION:
+957638421
+146729385
+832541679
+419352768
+628417953
+375986142
+791265834
+583174296
+264893517
+Sudoku solucionado correctamente
+---------
+...36....
+85.......
+9.4..8...
+.....68..
+.......17
+..9..45..
+.1.5...6.
+4....9..2
+.....3...
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][4]=6, Cell at [5][2]=9, Cell at [0][3]=3, Cell at [6][1]=1, Cell at [6][7]=6, Cell at [7][8]=2, Cell at [1][1]=5, Cell at [3][6]=8, Cell at [4][7]=1, Cell at [4][8]=7, Cell at [6][3]=5, Cell at [7][0]=4, Cell at [1][0]=8, Cell at [2][2]=4, Cell at [3][5]=6, Cell at [5][6]=5, Cell at [8][5]=3, Cell at [2][0]=9, Cell at [5][5]=4, Cell at [2][5]=8, Cell at [7][5]=9, Cell at [0][1]=2, Cell at [4][5]=2, Cell at [1][5]=1, Cell at [6][5]=7, Cell at [0][5]=5, Cell at [4][3]=9, Cell at [7][4]=1, Cell at [7][6]=7, Cell at [3][3]=7, Cell at [1][4]=9, Cell at [2][4]=7, Cell at [1][3]=4, Cell at [2][3]=2, Cell at [1][8]=6, Cell at [5][7]=2, Cell at [5][8]=3, Cell at [5][4]=8, Cell at [5][3]=1, Cell at [3][1]=3, Cell at [8][1]=9, Cell at [4][2]=8, Cell at [8][3]=8, Cell at [4][6]=6, Cell at [7][1]=8, Cell at [2][1]=6, Cell at [3][4]=5, Cell at [4][0]=5, Cell at [5][0]=6, Cell at [7][3]=6, Cell at [4][1]=4, Cell at [4][4]=3, Cell at [5][1]=7, Cell at [8][7]=4, Cell at [0][0]=1, Cell at [0][2]=7, Cell at [0][6]=4, Cell at [0][7]=8, Cell at [0][8]=9, Cell at [1][2]=3, Cell at [1][6]=2, Cell at [1][7]=7, Cell at [2][6]=3, Cell at [2][7]=5, Cell at [2][8]=1, Cell at [3][0]=2, Cell at [3][2]=1, Cell at [3][7]=9, Cell at [3][8]=4, Cell at [6][0]=3, Cell at [6][2]=2, Cell at [6][4]=4, Cell at [6][6]=9, Cell at [6][8]=8, Cell at [7][2]=5, Cell at [7][7]=3, Cell at [8][0]=7, Cell at [8][2]=6, Cell at [8][4]=2, Cell at [8][6]=1, Cell at [8][8]=5}
+Time to solve = 0.121segundos
+SOLUCION:
+127365489
+853491276
+964278351
+231756894
+548932617
+679184523
+312547968
+485619732
+796823145
+Sudoku solucionado correctamente
+---------
+34.6.....
+..7......
+.2..8.57.
+.....5...
+.7..1..2.
+...4.....
+.36.2..1.
+......9..
+.....7.82
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][5]=5, Cell at [5][3]=4, Cell at [1][2]=7, Cell at [7][6]=9, Cell at [8][5]=7, Cell at [0][3]=6, Cell at [4][1]=7, Cell at [6][2]=6, Cell at [8][8]=2, Cell at [0][0]=3, Cell at [2][4]=8, Cell at [2][6]=5, Cell at [4][4]=1, Cell at [4][7]=2, Cell at [6][4]=2, Cell at [6][1]=3, Cell at [0][1]=4, Cell at [0][7]=9, Cell at [2][1]=2, Cell at [2][7]=7, Cell at [8][7]=8, Cell at [6][7]=1, Cell at [0][5]=1, Cell at [0][8]=8, Cell at [0][2]=5, Cell at [0][4]=7, Cell at [0][6]=2, Cell at [2][3]=9, Cell at [2][0]=6, Cell at [2][2]=1, Cell at [4][3]=8, Cell at [6][3]=5, Cell at [7][3]=3, Cell at [3][3]=7, Cell at [1][3]=2, Cell at [8][3]=1, Cell at [8][1]=5, Cell at [7][1]=1, Cell at [1][0]=9, Cell at [4][0]=5, Cell at [8][6]=3, Cell at [1][1]=8, Cell at [6][5]=9, Cell at [7][5]=8, Cell at [7][2]=2, Cell at [7][4]=4, Cell at [6][0]=8, Cell at [7][0]=7, Cell at [8][2]=9, Cell at [8][4]=6, Cell at [8][0]=4, Cell at [5][2]=8, Cell at [4][6]=4, Cell at [1][4]=5, Cell at [1][5]=3, Cell at [1][6]=1, Cell at [1][7]=4, Cell at [1][8]=6, Cell at [2][5]=4, Cell at [2][8]=3, Cell at [3][0]=2, Cell at [3][1]=6, Cell at [3][2]=4, Cell at [3][4]=9, Cell at [3][6]=8, Cell at [3][7]=3, Cell at [3][8]=1, Cell at [4][2]=3, Cell at [4][5]=6, Cell at [4][8]=9, Cell at [5][0]=1, Cell at [5][1]=9, Cell at [5][4]=3, Cell at [5][5]=2, Cell at [5][6]=6, Cell at [5][7]=5, Cell at [5][8]=7, Cell at [6][6]=7, Cell at [6][8]=4, Cell at [7][7]=6, Cell at [7][8]=5}
+Time to solve = 0.515segundos
+SOLUCION:
+345671298
+987253146
+621984573
+264795831
+573816429
+198432657
+836529714
+712348965
+459167382
+Sudoku solucionado correctamente
+---------
+......4.1
+8..2.....
+...6.7...
+...8...6.
+.4....3..
+.1.......
+6......2.
+.5..1....
+7...3....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][8]=1, Cell at [6][7]=2, Cell at [0][6]=4, Cell at [1][0]=8, Cell at [2][5]=7, Cell at [3][3]=8, Cell at [3][7]=6, Cell at [4][6]=3, Cell at [5][1]=1, Cell at [7][4]=1, Cell at [8][4]=3, Cell at [4][1]=4, Cell at [1][3]=2, Cell at [2][3]=6, Cell at [6][0]=6, Cell at [7][1]=5, Cell at [8][0]=7, Cell at [2][1]=9, Cell at [6][1]=3, Cell at [1][1]=7, Cell at [3][1]=2, Cell at [0][1]=6, Cell at [8][1]=8, Cell at [4][0]=9, Cell at [5][0]=5, Cell at [3][2]=7, Cell at [7][0]=4, Cell at [0][0]=2, Cell at [2][0]=1, Cell at [3][0]=3, Cell at [7][3]=9, Cell at [7][2]=2, Cell at [7][5]=6, Cell at [7][6]=7, Cell at [7][8]=8, Cell at [7][7]=3, Cell at [1][7]=9, Cell at [1][4]=5, Cell at [0][3]=3, Cell at [1][8]=3, Cell at [1][5]=1, Cell at [1][6]=6, Cell at [2][2]=3, Cell at [0][2]=5, Cell at [1][2]=4, Cell at [4][5]=5, Cell at [4][8]=7, Cell at [0][4]=8, Cell at [0][5]=9, Cell at [0][7]=7, Cell at [2][4]=4, Cell at [2][6]=8, Cell at [2][7]=5, Cell at [2][8]=2, Cell at [3][4]=9, Cell at [3][5]=4, Cell at [3][6]=1, Cell at [3][8]=5, Cell at [4][2]=6, Cell at [4][3]=1, Cell at [4][4]=2, Cell at [4][7]=8, Cell at [5][2]=8, Cell at [5][3]=7, Cell at [5][4]=6, Cell at [5][5]=3, Cell at [5][6]=2, Cell at [5][7]=4, Cell at [5][8]=9, Cell at [6][2]=1, Cell at [6][3]=5, Cell at [6][4]=7, Cell at [6][5]=8, Cell at [6][6]=9, Cell at [6][8]=4, Cell at [8][2]=9, Cell at [8][3]=4, Cell at [8][5]=2, Cell at [8][6]=5, Cell at [8][7]=1, Cell at [8][8]=6}
+Time to solve = 3.42segundos
+SOLUCION:
+265389471
+874251693
+193647852
+327894165
+946125387
+518763249
+631578924
+452916738
+789432516
+Sudoku solucionado correctamente
+---------
+.4..5..67
+...1...4.
+...2.....
+1..8..3..
+......2..
+.6.......
+....4..5.
+3.....8..
+2........
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [5][1]=6, Cell at [6][4]=4, Cell at [4][6]=2, Cell at [8][0]=2, Cell at [0][1]=4, Cell at [2][3]=2, Cell at [3][3]=8, Cell at [6][7]=5, Cell at [7][0]=3, Cell at [7][6]=8, Cell at [0][8]=7, Cell at [1][3]=1, Cell at [1][7]=4, Cell at [3][0]=1, Cell at [3][6]=3, Cell at [0][4]=5, Cell at [0][7]=6, Cell at [0][0]=8, Cell at [0][5]=9, Cell at [0][2]=2, Cell at [0][6]=1, Cell at [0][3]=3, Cell at [3][7]=9, Cell at [2][6]=5, Cell at [1][6]=9, Cell at [2][8]=8, Cell at [1][8]=2, Cell at [2][7]=3, Cell at [8][7]=7, Cell at [5][6]=7, Cell at [6][6]=6, Cell at [8][6]=4, Cell at [6][3]=9, Cell at [6][0]=7, Cell at [5][3]=4, Cell at [6][2]=1, Cell at [6][5]=2, Cell at [6][1]=8, Cell at [6][8]=3, Cell at [5][0]=9, Cell at [4][0]=4, Cell at [2][2]=9, Cell at [2][4]=7, Cell at [2][5]=4, Cell at [2][1]=1, Cell at [1][0]=5, Cell at [2][0]=6, Cell at [7][4]=1, Cell at [1][1]=7, Cell at [1][2]=3, Cell at [1][4]=8, Cell at [1][5]=6, Cell at [3][1]=2, Cell at [3][2]=7, Cell at [3][4]=6, Cell at [3][5]=5, Cell at [3][8]=4, Cell at [4][1]=3, Cell at [4][2]=5, Cell at [4][3]=7, Cell at [4][4]=9, Cell at [4][5]=1, Cell at [4][7]=8, Cell at [4][8]=6, Cell at [5][2]=8, Cell at [5][4]=2, Cell at [5][5]=3, Cell at [5][7]=1, Cell at [5][8]=5, Cell at [7][1]=5, Cell at [7][2]=4, Cell at [7][3]=6, Cell at [7][5]=7, Cell at [7][7]=2, Cell at [7][8]=9, Cell at [8][1]=9, Cell at [8][2]=6, Cell at [8][3]=5, Cell at [8][4]=3, Cell at [8][5]=8, Cell at [8][8]=1}
+Time to solve = 1.366segundos
+SOLUCION:
+842359167
+573186942
+619274538
+127865394
+435791286
+968423715
+781942653
+354617829
+296538471
+Sudoku solucionado correctamente
+---------
+.......4.
+..2..4..1
+.7..5..9.
+..3..7...
+.4..6....
+6..1..8..
+.2....1..
+85.9...6.
+....8...3
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][7]=4, Cell at [1][2]=2, Cell at [1][5]=4, Cell at [3][5]=7, Cell at [5][6]=8, Cell at [6][6]=1, Cell at [8][4]=8, Cell at [8][8]=3, Cell at [1][8]=1, Cell at [2][4]=5, Cell at [3][2]=3, Cell at [4][4]=6, Cell at [7][3]=9, Cell at [2][7]=9, Cell at [5][3]=1, Cell at [7][0]=8, Cell at [2][1]=7, Cell at [5][0]=6, Cell at [6][1]=2, Cell at [7][7]=6, Cell at [4][1]=4, Cell at [7][1]=5, Cell at [5][1]=9, Cell at [5][2]=5, Cell at [3][0]=2, Cell at [3][7]=1, Cell at [3][1]=8, Cell at [3][3]=4, Cell at [3][4]=9, Cell at [1][4]=7, Cell at [6][4]=4, Cell at [3][6]=6, Cell at [3][8]=5, Cell at [2][6]=2, Cell at [2][8]=8, Cell at [0][8]=6, Cell at [0][1]=3, Cell at [8][1]=1, Cell at [1][1]=6, Cell at [0][3]=2, Cell at [0][4]=1, Cell at [6][8]=7, Cell at [0][0]=5, Cell at [0][2]=8, Cell at [0][5]=9, Cell at [0][6]=7, Cell at [1][0]=9, Cell at [1][3]=8, Cell at [1][6]=5, Cell at [1][7]=3, Cell at [2][0]=1, Cell at [2][2]=4, Cell at [2][3]=3, Cell at [2][5]=6, Cell at [4][0]=7, Cell at [4][2]=1, Cell at [4][3]=5, Cell at [4][5]=8, Cell at [4][6]=3, Cell at [4][7]=2, Cell at [4][8]=9, Cell at [5][4]=2, Cell at [5][5]=3, Cell at [5][7]=7, Cell at [5][8]=4, Cell at [6][0]=3, Cell at [6][2]=9, Cell at [6][3]=6, Cell at [6][5]=5, Cell at [6][7]=8, Cell at [7][2]=7, Cell at [7][4]=3, Cell at [7][5]=1, Cell at [7][6]=4, Cell at [7][8]=2, Cell at [8][0]=4, Cell at [8][2]=6, Cell at [8][3]=7, Cell at [8][5]=2, Cell at [8][6]=9, Cell at [8][7]=5}
+Time to solve = 0.068segundos
+SOLUCION:
+538219746
+962874531
+174356298
+283497615
+741568329
+695123874
+329645187
+857931462
+416782953
+Sudoku solucionado correctamente
+---------
+8..7....4
+.5....6..
+.........
+.3.97...8
+....43..5
+....2.9..
+..6......
+2...6...7
+.71..83.2
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][3]=7, Cell at [0][0]=8, Cell at [1][1]=5, Cell at [1][6]=6, Cell at [6][2]=6, Cell at [3][1]=3, Cell at [5][6]=9, Cell at [7][0]=2, Cell at [7][4]=6, Cell at [8][5]=8, Cell at [0][8]=4, Cell at [4][5]=3, Cell at [3][3]=9, Cell at [4][8]=5, Cell at [5][4]=2, Cell at [7][8]=7, Cell at [8][2]=1, Cell at [8][6]=3, Cell at [3][8]=8, Cell at [4][4]=4, Cell at [8][1]=7, Cell at [3][4]=7, Cell at [8][8]=2, Cell at [6][8]=9, Cell at [2][8]=3, Cell at [1][8]=1, Cell at [5][8]=6, Cell at [6][1]=8, Cell at [5][1]=4, Cell at [7][1]=9, Cell at [3][2]=2, Cell at [0][2]=3, Cell at [3][7]=4, Cell at [3][6]=1, Cell at [6][7]=5, Cell at [6][3]=2, Cell at [6][5]=7, Cell at [6][0]=3, Cell at [6][4]=1, Cell at [7][7]=1, Cell at [8][7]=6, Cell at [7][6]=8, Cell at [6][6]=4, Cell at [0][4]=5, Cell at [1][3]=4, Cell at [2][4]=8, Cell at [1][4]=3, Cell at [2][6]=5, Cell at [2][7]=7, Cell at [7][5]=4, Cell at [8][0]=4, Cell at [4][6]=7, Cell at [4][7]=2, Cell at [5][7]=3, Cell at [7][2]=5, Cell at [1][7]=8, Cell at [7][3]=3, Cell at [8][3]=5, Cell at [0][6]=2, Cell at [0][7]=9, Cell at [8][4]=9, Cell at [2][2]=4, Cell at [1][0]=9, Cell at [0][1]=6, Cell at [0][5]=1, Cell at [1][2]=7, Cell at [1][5]=2, Cell at [2][0]=1, Cell at [2][1]=2, Cell at [2][3]=6, Cell at [2][5]=9, Cell at [3][0]=5, Cell at [3][5]=6, Cell at [4][0]=6, Cell at [4][1]=1, Cell at [4][2]=9, Cell at [4][3]=8, Cell at [5][0]=7, Cell at [5][2]=8, Cell at [5][3]=1, Cell at [5][5]=5}
+Time to solve = 0.068segundos
+SOLUCION:
+863751294
+957432681
+124689573
+532976148
+619843725
+748125936
+386217459
+295364817
+471598362
+Sudoku solucionado correctamente
+---------
+.8...4.5.
+...7..3..
+.........
+.1..85...
+6.....2..
+....4....
+3.26.....
+.......41
+7........
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [4][6]=2, Cell at [7][8]=1, Cell at [0][1]=8, Cell at [1][3]=7, Cell at [1][6]=3, Cell at [5][4]=4, Cell at [6][3]=6, Cell at [7][7]=4, Cell at [0][5]=4, Cell at [0][7]=5, Cell at [3][1]=1, Cell at [4][0]=6, Cell at [6][2]=2, Cell at [8][0]=7, Cell at [3][4]=8, Cell at [3][5]=5, Cell at [6][0]=3, Cell at [0][0]=9, Cell at [3][0]=4, Cell at [7][0]=8, Cell at [5][0]=2, Cell at [2][0]=5, Cell at [1][0]=1, Cell at [1][2]=4, Cell at [1][1]=2, Cell at [0][8]=7, Cell at [0][6]=1, Cell at [0][3]=3, Cell at [0][4]=2, Cell at [0][2]=6, Cell at [4][3]=1, Cell at [1][4]=5, Cell at [1][5]=9, Cell at [1][7]=6, Cell at [1][8]=8, Cell at [2][1]=3, Cell at [2][2]=7, Cell at [2][3]=8, Cell at [2][4]=6, Cell at [2][5]=1, Cell at [2][6]=4, Cell at [2][7]=2, Cell at [2][8]=9, Cell at [3][2]=3, Cell at [3][3]=2, Cell at [3][6]=9, Cell at [3][7]=7, Cell at [3][8]=6, Cell at [4][1]=9, Cell at [4][2]=5, Cell at [4][4]=7, Cell at [4][5]=3, Cell at [4][7]=8, Cell at [4][8]=4, Cell at [5][1]=7, Cell at [5][2]=8, Cell at [5][3]=9, Cell at [5][5]=6, Cell at [5][6]=5, Cell at [5][7]=1, Cell at [5][8]=3, Cell at [6][1]=4, Cell at [6][4]=1, Cell at [6][5]=7, Cell at [6][6]=8, Cell at [6][7]=9, Cell at [6][8]=5, Cell at [7][1]=6, Cell at [7][2]=9, Cell at [7][3]=5, Cell at [7][4]=3, Cell at [7][5]=2, Cell at [7][6]=7, Cell at [8][1]=5, Cell at [8][2]=1, Cell at [8][3]=4, Cell at [8][4]=9, Cell at [8][5]=8, Cell at [8][6]=6, Cell at [8][7]=3, Cell at [8][8]=2}
+Time to solve = 4.921segundos
+SOLUCION:
+986324157
+124759368
+537861429
+413285976
+695173284
+278946513
+342617895
+869532741
+751498632
+Sudoku solucionado correctamente
+---------
+....7..8.
+..6...5..
+.2...3.61
+.1...7..2
+..8..534.
+2..9.....
+..2......
+58...6.3.
+4...1....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][4]=7, Cell at [5][3]=9, Cell at [8][4]=1, Cell at [1][2]=6, Cell at [1][6]=5, Cell at [3][8]=2, Cell at [5][0]=2, Cell at [6][2]=2, Cell at [2][1]=2, Cell at [3][1]=1, Cell at [4][6]=3, Cell at [7][7]=3, Cell at [8][0]=4, Cell at [0][7]=8, Cell at [2][5]=3, Cell at [2][8]=1, Cell at [3][5]=7, Cell at [4][2]=8, Cell at [7][5]=6, Cell at [4][5]=5, Cell at [4][7]=4, Cell at [7][0]=5, Cell at [7][1]=8, Cell at [2][7]=6, Cell at [4][4]=2, Cell at [7][4]=4, Cell at [1][4]=8, Cell at [2][3]=5, Cell at [2][4]=9, Cell at [6][5]=9, Cell at [7][8]=9, Cell at [0][8]=3, Cell at [0][0]=9, Cell at [0][1]=4, Cell at [0][2]=5, Cell at [0][3]=6, Cell at [0][5]=1, Cell at [0][6]=2, Cell at [1][0]=1, Cell at [1][1]=3, Cell at [1][3]=4, Cell at [1][5]=2, Cell at [1][7]=9, Cell at [1][8]=7, Cell at [2][0]=8, Cell at [2][2]=7, Cell at [2][6]=4, Cell at [3][0]=6, Cell at [3][2]=4, Cell at [3][3]=8, Cell at [3][4]=3, Cell at [3][6]=9, Cell at [3][7]=5, Cell at [4][0]=7, Cell at [4][1]=9, Cell at [4][3]=1, Cell at [4][8]=6, Cell at [5][1]=5, Cell at [5][2]=3, Cell at [5][4]=6, Cell at [5][5]=4, Cell at [5][6]=1, Cell at [5][7]=7, Cell at [5][8]=8, Cell at [6][0]=3, Cell at [6][1]=6, Cell at [6][3]=7, Cell at [6][4]=5, Cell at [6][6]=8, Cell at [6][7]=1, Cell at [6][8]=4, Cell at [7][2]=1, Cell at [7][3]=2, Cell at [7][6]=7, Cell at [8][1]=7, Cell at [8][2]=9, Cell at [8][3]=3, Cell at [8][5]=8, Cell at [8][6]=6, Cell at [8][7]=2, Cell at [8][8]=5}
+Time to solve = 0.159segundos
+SOLUCION:
+945671283
+136482597
+827593461
+614837952
+798125346
+253964178
+362759814
+581246739
+479318625
+Sudoku solucionado correctamente
+---------
+......8.1
+6..2.....
+...7.5...
+...6...2.
+.1....3..
+.8.......
+2......7.
+.4..8....
+5...3....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][8]=1, Cell at [6][7]=7, Cell at [0][6]=8, Cell at [1][0]=6, Cell at [2][5]=5, Cell at [3][3]=6, Cell at [3][7]=2, Cell at [4][6]=3, Cell at [5][1]=8, Cell at [7][4]=8, Cell at [8][4]=3, Cell at [4][1]=1, Cell at [1][3]=2, Cell at [2][3]=7, Cell at [6][0]=2, Cell at [7][1]=4, Cell at [8][0]=5, Cell at [2][1]=9, Cell at [6][1]=3, Cell at [1][1]=5, Cell at [3][1]=7, Cell at [0][1]=2, Cell at [8][1]=6, Cell at [4][0]=9, Cell at [5][0]=4, Cell at [3][2]=5, Cell at [7][0]=1, Cell at [0][0]=7, Cell at [2][0]=8, Cell at [3][0]=3, Cell at [7][3]=9, Cell at [7][2]=7, Cell at [7][5]=2, Cell at [7][6]=5, Cell at [7][8]=6, Cell at [7][7]=3, Cell at [1][7]=9, Cell at [1][4]=4, Cell at [0][3]=3, Cell at [1][8]=3, Cell at [1][5]=8, Cell at [1][6]=7, Cell at [2][2]=3, Cell at [0][2]=4, Cell at [1][2]=1, Cell at [4][5]=4, Cell at [5][3]=5, Cell at [4][3]=8, Cell at [5][8]=7, Cell at [0][4]=6, Cell at [0][5]=9, Cell at [0][7]=5, Cell at [2][4]=1, Cell at [2][6]=6, Cell at [2][7]=4, Cell at [2][8]=2, Cell at [3][4]=9, Cell at [3][5]=1, Cell at [3][6]=4, Cell at [3][8]=8, Cell at [4][2]=2, Cell at [4][4]=7, Cell at [4][7]=6, Cell at [4][8]=5, Cell at [5][2]=6, Cell at [5][4]=2, Cell at [5][5]=3, Cell at [5][6]=9, Cell at [5][7]=1, Cell at [6][2]=8, Cell at [6][3]=4, Cell at [6][4]=5, Cell at [6][5]=6, Cell at [6][6]=1, Cell at [6][8]=9, Cell at [8][2]=9, Cell at [8][3]=1, Cell at [8][5]=7, Cell at [8][6]=2, Cell at [8][7]=8, Cell at [8][8]=4}
+Time to solve = 4.137segundos
+SOLUCION:
+724369851
+651248793
+893715642
+375691428
+912874365
+486523917
+238456179
+147982536
+569137284
+Sudoku solucionado correctamente
+---------
+.2.......
+...6....3
+.74.8....
+.....3..2
+.8..4..1.
+6..5.....
+....1.78.
+5....9...
+.......4.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][8]=3, Cell at [7][0]=5, Cell at [1][3]=6, Cell at [3][8]=2, Cell at [5][0]=6, Cell at [7][5]=9, Cell at [0][1]=2, Cell at [2][2]=4, Cell at [3][5]=3, Cell at [5][3]=5, Cell at [6][6]=7, Cell at [8][7]=4, Cell at [2][4]=8, Cell at [4][1]=8, Cell at [4][7]=1, Cell at [6][4]=1, Cell at [2][1]=7, Cell at [4][4]=4, Cell at [6][7]=8, Cell at [7][8]=1, Cell at [1][0]=8, Cell at [2][5]=5, Cell at [2][8]=6, Cell at [8][8]=9, Cell at [4][8]=7, Cell at [6][8]=5, Cell at [5][7]=9, Cell at [2][7]=2, Cell at [0][7]=5, Cell at [3][7]=6, Cell at [1][7]=7, Cell at [7][7]=3, Cell at [7][1]=4, Cell at [3][4]=9, Cell at [4][3]=2, Cell at [8][6]=6, Cell at [0][4]=3, Cell at [4][5]=6, Cell at [8][4]=5, Cell at [1][4]=2, Cell at [7][6]=2, Cell at [5][4]=7, Cell at [7][4]=6, Cell at [0][0]=1, Cell at [0][2]=6, Cell at [3][0]=4, Cell at [8][1]=3, Cell at [0][3]=4, Cell at [0][5]=7, Cell at [0][6]=9, Cell at [0][8]=8, Cell at [1][1]=9, Cell at [1][2]=5, Cell at [1][5]=1, Cell at [1][6]=4, Cell at [2][0]=3, Cell at [2][3]=9, Cell at [2][6]=1, Cell at [3][1]=5, Cell at [3][2]=7, Cell at [3][3]=1, Cell at [3][6]=8, Cell at [4][0]=9, Cell at [4][2]=3, Cell at [4][6]=5, Cell at [5][1]=1, Cell at [5][2]=2, Cell at [5][5]=8, Cell at [5][6]=3, Cell at [5][8]=4, Cell at [6][0]=2, Cell at [6][1]=6, Cell at [6][2]=9, Cell at [6][3]=3, Cell at [6][5]=4, Cell at [7][2]=8, Cell at [7][3]=7, Cell at [8][0]=7, Cell at [8][2]=1, Cell at [8][3]=8, Cell at [8][5]=2}
+Time to solve = 0.449segundos
+SOLUCION:
+126437958
+895621473
+374985126
+457193862
+983246517
+612578394
+269314785
+548769231
+731852649
+Sudoku solucionado correctamente
+---------
+.52..68..
+.....7.2.
+......6..
+..48..9..
+2..41....
+..1.....8
+..61..38.
+....9...6
+3..6..1.9
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][5]=7, Cell at [0][1]=5, Cell at [1][7]=2, Cell at [5][8]=8, Cell at [7][4]=9, Cell at [0][5]=6, Cell at [4][0]=2, Cell at [4][4]=1, Cell at [8][0]=3, Cell at [2][6]=6, Cell at [5][2]=1, Cell at [0][2]=2, Cell at [3][2]=4, Cell at [3][3]=8, Cell at [3][6]=9, Cell at [4][3]=4, Cell at [6][2]=6, Cell at [7][8]=6, Cell at [6][3]=1, Cell at [6][7]=8, Cell at [8][3]=6, Cell at [0][6]=8, Cell at [8][8]=9, Cell at [6][6]=3, Cell at [8][6]=1, Cell at [0][4]=4, Cell at [1][6]=4, Cell at [4][6]=7, Cell at [4][8]=3, Cell at [4][5]=5, Cell at [4][7]=6, Cell at [3][5]=3, Cell at [3][1]=7, Cell at [5][7]=4, Cell at [1][8]=1, Cell at [1][1]=6, Cell at [2][8]=5, Cell at [6][0]=7, Cell at [6][1]=9, Cell at [6][4]=5, Cell at [7][6]=2, Cell at [5][5]=9, Cell at [6][5]=2, Cell at [3][4]=6, Cell at [5][0]=6, Cell at [0][8]=7, Cell at [5][1]=3, Cell at [3][0]=5, Cell at [3][7]=1, Cell at [4][2]=9, Cell at [4][1]=8, Cell at [5][6]=5, Cell at [6][8]=4, Cell at [3][8]=2, Cell at [2][1]=4, Cell at [7][1]=1, Cell at [8][1]=2, Cell at [2][5]=1, Cell at [2][0]=8, Cell at [0][0]=1, Cell at [0][3]=9, Cell at [0][7]=3, Cell at [1][0]=9, Cell at [1][2]=3, Cell at [1][3]=5, Cell at [1][4]=8, Cell at [2][2]=7, Cell at [2][3]=2, Cell at [2][4]=3, Cell at [2][7]=9, Cell at [5][3]=7, Cell at [5][4]=2, Cell at [7][0]=4, Cell at [7][2]=5, Cell at [7][3]=3, Cell at [7][5]=8, Cell at [7][7]=7, Cell at [8][2]=8, Cell at [8][4]=7, Cell at [8][5]=4, Cell at [8][7]=5}
+Time to solve = 0.095segundos
+SOLUCION:
+152946837
+963587421
+847231695
+574863912
+289415763
+631729548
+796152384
+415398276
+328674159
+Sudoku solucionado correctamente
+---------
+....1.78.
+5....9...
+.......4.
+.2.......
+...6....3
+.74.8....
+.....3..2
+.8..4..1.
+6..5.....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][0]=5, Cell at [4][8]=3, Cell at [1][5]=9, Cell at [4][3]=6, Cell at [6][8]=2, Cell at [8][0]=6, Cell at [0][6]=7, Cell at [2][7]=4, Cell at [3][1]=2, Cell at [5][2]=4, Cell at [6][5]=3, Cell at [8][3]=5, Cell at [0][4]=1, Cell at [5][4]=8, Cell at [7][1]=8, Cell at [7][7]=1, Cell at [0][7]=8, Cell at [5][1]=7, Cell at [7][4]=4, Cell at [1][8]=1, Cell at [0][3]=3, Cell at [0][2]=9, Cell at [0][0]=2, Cell at [0][1]=6, Cell at [0][5]=4, Cell at [0][8]=5, Cell at [5][8]=6, Cell at [7][8]=7, Cell at [2][8]=9, Cell at [8][7]=9, Cell at [3][7]=5, Cell at [1][1]=4, Cell at [4][7]=7, Cell at [6][7]=6, Cell at [5][7]=2, Cell at [1][7]=3, Cell at [3][5]=7, Cell at [3][4]=3, Cell at [7][0]=9, Cell at [6][4]=9, Cell at [8][4]=7, Cell at [7][3]=2, Cell at [7][5]=6, Cell at [2][3]=8, Cell at [1][2]=8, Cell at [1][3]=7, Cell at [1][4]=6, Cell at [1][6]=2, Cell at [2][0]=7, Cell at [2][1]=3, Cell at [2][2]=1, Cell at [2][4]=5, Cell at [2][5]=2, Cell at [2][6]=6, Cell at [3][0]=1, Cell at [3][2]=6, Cell at [3][3]=4, Cell at [3][6]=9, Cell at [3][8]=8, Cell at [4][0]=8, Cell at [4][1]=9, Cell at [4][2]=5, Cell at [4][4]=2, Cell at [4][5]=1, Cell at [4][6]=4, Cell at [5][0]=3, Cell at [5][3]=9, Cell at [5][5]=5, Cell at [5][6]=1, Cell at [6][0]=4, Cell at [6][1]=5, Cell at [6][2]=7, Cell at [6][3]=1, Cell at [6][6]=8, Cell at [7][2]=3, Cell at [7][6]=5, Cell at [8][1]=1, Cell at [8][2]=2, Cell at [8][5]=8, Cell at [8][6]=3, Cell at [8][8]=4}
+Time to solve = 0.485segundos
+SOLUCION:
+269314785
+548769231
+731852649
+126437958
+895621473
+374985126
+457193862
+983246517
+612578394
+Sudoku solucionado correctamente
+---------
+1.......3
+.6.3..7..
+.7...5..1
+21.7...9.
+..7......
+..8.1..2.
+...8.64..
+..9.2..6.
+...4.....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][0]=1, Cell at [0][8]=3, Cell at [2][5]=5, Cell at [5][4]=1, Cell at [6][6]=4, Cell at [7][2]=9, Cell at [1][6]=7, Cell at [2][8]=1, Cell at [4][2]=7, Cell at [5][7]=2, Cell at [7][7]=6, Cell at [1][1]=6, Cell at [1][3]=3, Cell at [2][1]=7, Cell at [3][7]=9, Cell at [6][5]=6, Cell at [7][4]=2, Cell at [8][3]=4, Cell at [3][0]=2, Cell at [3][3]=7, Cell at [5][2]=8, Cell at [3][1]=1, Cell at [6][3]=8, Cell at [2][7]=8, Cell at [0][7]=4, Cell at [1][7]=5, Cell at [0][2]=2, Cell at [1][5]=1, Cell at [0][1]=5, Cell at [0][3]=6, Cell at [0][6]=9, Cell at [1][4]=9, Cell at [2][4]=4, Cell at [1][8]=2, Cell at [1][0]=8, Cell at [2][0]=9, Cell at [2][3]=2, Cell at [2][6]=6, Cell at [1][2]=4, Cell at [2][2]=3, Cell at [6][1]=2, Cell at [8][1]=8, Cell at [4][3]=5, Cell at [5][3]=9, Cell at [7][3]=1, Cell at [4][7]=3, Cell at [0][4]=7, Cell at [0][5]=8, Cell at [3][2]=5, Cell at [3][4]=6, Cell at [3][5]=3, Cell at [3][6]=8, Cell at [3][8]=4, Cell at [4][0]=4, Cell at [4][1]=9, Cell at [4][4]=8, Cell at [4][5]=2, Cell at [4][6]=1, Cell at [4][8]=6, Cell at [5][0]=6, Cell at [5][1]=3, Cell at [5][5]=4, Cell at [5][6]=5, Cell at [5][8]=7, Cell at [6][0]=3, Cell at [6][2]=1, Cell at [6][4]=5, Cell at [6][7]=7, Cell at [6][8]=9, Cell at [7][0]=5, Cell at [7][1]=4, Cell at [7][5]=7, Cell at [7][6]=3, Cell at [7][8]=8, Cell at [8][0]=7, Cell at [8][2]=6, Cell at [8][4]=3, Cell at [8][5]=9, Cell at [8][6]=2, Cell at [8][7]=1, Cell at [8][8]=5}
+Time to solve = 0.478segundos
+SOLUCION:
+152678943
+864391752
+973245681
+215763894
+497582136
+638914527
+321856479
+549127368
+786439215
+Sudoku solucionado correctamente
+---------
+4...7.1..
+..19.46.5
+.....1...
+...7....2
+..2.3....
+847..6...
+.14...8.6
+.2....3..
+6...9....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][8]=2, Cell at [8][4]=9, Cell at [3][3]=7, Cell at [0][0]=4, Cell at [2][5]=1, Cell at [4][4]=3, Cell at [7][1]=2, Cell at [7][6]=3, Cell at [8][0]=6, Cell at [0][4]=7, Cell at [0][6]=1, Cell at [4][2]=2, Cell at [5][5]=6, Cell at [6][8]=6, Cell at [1][2]=1, Cell at [1][3]=9, Cell at [1][8]=5, Cell at [5][0]=8, Cell at [5][1]=4, Cell at [6][1]=1, Cell at [6][6]=8, Cell at [1][5]=4, Cell at [1][6]=6, Cell at [5][2]=7, Cell at [6][2]=4, Cell at [6][4]=5, Cell at [7][5]=8, Cell at [3][5]=9, Cell at [4][5]=5, Cell at [3][6]=4, Cell at [4][0]=9, Cell at [4][6]=7, Cell at [4][1]=6, Cell at [4][7]=8, Cell at [4][3]=4, Cell at [4][8]=1, Cell at [7][3]=6, Cell at [8][8]=4, Cell at [2][6]=9, Cell at [8][6]=2, Cell at [5][6]=5, Cell at [0][7]=2, Cell at [0][1]=9, Cell at [0][2]=6, Cell at [0][3]=5, Cell at [0][5]=3, Cell at [0][8]=8, Cell at [1][0]=3, Cell at [1][1]=8, Cell at [1][4]=2, Cell at [1][7]=7, Cell at [2][0]=2, Cell at [2][1]=7, Cell at [2][2]=5, Cell at [2][3]=8, Cell at [2][4]=6, Cell at [2][7]=4, Cell at [2][8]=3, Cell at [3][0]=1, Cell at [3][1]=5, Cell at [3][2]=3, Cell at [3][4]=8, Cell at [3][7]=6, Cell at [5][3]=2, Cell at [5][4]=1, Cell at [5][7]=3, Cell at [5][8]=9, Cell at [6][0]=7, Cell at [6][3]=3, Cell at [6][5]=2, Cell at [6][7]=9, Cell at [7][0]=5, Cell at [7][2]=9, Cell at [7][4]=4, Cell at [7][7]=1, Cell at [7][8]=7, Cell at [8][1]=3, Cell at [8][2]=8, Cell at [8][3]=1, Cell at [8][5]=7, Cell at [8][7]=5}
+Time to solve = 0.19segundos
+SOLUCION:
+496573128
+381924675
+275861943
+153789462
+962435781
+847216539
+714352896
+529648317
+638197254
+Sudoku solucionado correctamente
+---------
+......8.1
+7..2.....
+...5.6...
+...7...5.
+.1....3..
+.8.......
+5......2.
+.3..8....
+6...4....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][8]=1, Cell at [6][7]=2, Cell at [0][6]=8, Cell at [1][0]=7, Cell at [2][5]=6, Cell at [3][3]=7, Cell at [3][7]=5, Cell at [4][6]=3, Cell at [5][1]=8, Cell at [7][4]=8, Cell at [8][4]=4, Cell at [4][1]=1, Cell at [1][3]=2, Cell at [2][3]=5, Cell at [6][0]=5, Cell at [7][1]=3, Cell at [8][0]=6, Cell at [2][1]=9, Cell at [6][1]=4, Cell at [1][1]=6, Cell at [3][1]=2, Cell at [0][1]=5, Cell at [8][1]=7, Cell at [4][0]=9, Cell at [5][0]=4, Cell at [3][2]=6, Cell at [7][0]=1, Cell at [0][0]=2, Cell at [2][0]=8, Cell at [3][0]=3, Cell at [3][4]=9, Cell at [7][3]=9, Cell at [7][2]=2, Cell at [1][4]=3, Cell at [0][7]=6, Cell at [6][4]=6, Cell at [1][5]=8, Cell at [1][2]=1, Cell at [2][2]=4, Cell at [0][5]=9, Cell at [2][4]=1, Cell at [0][2]=3, Cell at [0][3]=4, Cell at [0][4]=7, Cell at [3][8]=8, Cell at [4][7]=7, Cell at [1][6]=5, Cell at [1][7]=9, Cell at [1][8]=4, Cell at [2][6]=7, Cell at [2][7]=3, Cell at [2][8]=2, Cell at [3][5]=1, Cell at [3][6]=4, Cell at [4][2]=5, Cell at [4][3]=8, Cell at [4][4]=2, Cell at [4][5]=4, Cell at [4][8]=6, Cell at [5][2]=7, Cell at [5][3]=6, Cell at [5][4]=5, Cell at [5][5]=3, Cell at [5][6]=2, Cell at [5][7]=1, Cell at [5][8]=9, Cell at [6][2]=8, Cell at [6][3]=1, Cell at [6][5]=7, Cell at [6][6]=9, Cell at [6][8]=3, Cell at [7][5]=5, Cell at [7][6]=6, Cell at [7][7]=4, Cell at [7][8]=7, Cell at [8][2]=9, Cell at [8][3]=3, Cell at [8][5]=2, Cell at [8][6]=1, Cell at [8][7]=8, Cell at [8][8]=5}
+Time to solve = 4.035segundos
+SOLUCION:
+253479861
+761238594
+894516732
+326791458
+915824376
+487653219
+548167923
+132985647
+679342185
+Sudoku solucionado correctamente
+---------
+963......
+1....8...
+...2.5...
+.4.8.....
+.1....7..
+....3..25
+7......3.
+..9.2.4.7
+......9..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][3]=8, Cell at [1][5]=8, Cell at [2][3]=2, Cell at [2][5]=5, Cell at [3][1]=4, Cell at [4][1]=1, Cell at [5][4]=3, Cell at [6][0]=7, Cell at [7][4]=2, Cell at [4][6]=7, Cell at [5][7]=2, Cell at [5][8]=5, Cell at [6][7]=3, Cell at [7][2]=9, Cell at [8][6]=9, Cell at [0][2]=3, Cell at [1][0]=1, Cell at [0][0]=9, Cell at [0][1]=6, Cell at [7][8]=7, Cell at [7][6]=4, Cell at [5][0]=6, Cell at [2][1]=7, Cell at [5][2]=7, Cell at [3][2]=5, Cell at [1][1]=5, Cell at [6][1]=2, Cell at [8][1]=3, Cell at [4][2]=8, Cell at [8][0]=4, Cell at [1][2]=2, Cell at [7][0]=5, Cell at [2][0]=8, Cell at [2][2]=4, Cell at [5][1]=9, Cell at [7][1]=8, Cell at [1][6]=6, Cell at [2][7]=9, Cell at [1][8]=4, Cell at [1][3]=3, Cell at [1][4]=9, Cell at [1][7]=7, Cell at [3][6]=1, Cell at [0][3]=7, Cell at [0][4]=4, Cell at [0][5]=1, Cell at [0][6]=2, Cell at [0][7]=5, Cell at [0][8]=8, Cell at [2][4]=6, Cell at [2][6]=3, Cell at [2][8]=1, Cell at [3][0]=3, Cell at [3][4]=7, Cell at [3][5]=2, Cell at [3][7]=6, Cell at [3][8]=9, Cell at [4][0]=2, Cell at [4][3]=9, Cell at [4][4]=5, Cell at [4][5]=6, Cell at [4][7]=4, Cell at [4][8]=3, Cell at [5][3]=1, Cell at [5][5]=4, Cell at [5][6]=8, Cell at [6][2]=1, Cell at [6][3]=4, Cell at [6][4]=8, Cell at [6][5]=9, Cell at [6][6]=5, Cell at [6][8]=6, Cell at [7][3]=6, Cell at [7][5]=3, Cell at [7][7]=1, Cell at [8][2]=6, Cell at [8][3]=5, Cell at [8][4]=1, Cell at [8][5]=7, Cell at [8][7]=8, Cell at [8][8]=2}
+Time to solve = 0.113segundos
+SOLUCION:
+963741258
+152398674
+874265391
+345872169
+218956743
+697134825
+721489536
+589623417
+436517982
+Sudoku solucionado correctamente
+---------
+15.3.....
+.7..4.2..
+..4.72...
+..8......
+...9..1.8
+.1..8.79.
+.....38..
+.........
+6....7423
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][2]=8, Cell at [4][3]=9, Cell at [6][5]=3, Cell at [8][0]=6, Cell at [0][0]=1, Cell at [0][3]=3, Cell at [1][6]=2, Cell at [2][2]=4, Cell at [4][8]=8, Cell at [5][1]=1, Cell at [5][4]=8, Cell at [0][1]=5, Cell at [1][1]=7, Cell at [1][4]=4, Cell at [2][4]=7, Cell at [2][5]=2, Cell at [5][7]=9, Cell at [8][5]=7, Cell at [6][6]=8, Cell at [8][7]=2, Cell at [8][8]=3, Cell at [4][6]=1, Cell at [5][6]=7, Cell at [8][6]=4, Cell at [0][6]=6, Cell at [0][2]=2, Cell at [0][4]=9, Cell at [0][5]=8, Cell at [8][1]=8, Cell at [7][6]=5, Cell at [2][6]=9, Cell at [3][6]=3, Cell at [1][8]=5, Cell at [2][8]=1, Cell at [8][3]=1, Cell at [8][2]=9, Cell at [8][4]=5, Cell at [1][7]=8, Cell at [2][7]=3, Cell at [1][0]=9, Cell at [2][0]=8, Cell at [1][2]=3, Cell at [1][3]=6, Cell at [1][5]=1, Cell at [2][1]=6, Cell at [2][3]=5, Cell at [7][2]=1, Cell at [5][3]=2, Cell at [3][1]=9, Cell at [4][1]=4, Cell at [3][3]=7, Cell at [3][4]=1, Cell at [4][4]=3, Cell at [6][1]=2, Cell at [7][1]=3, Cell at [7][5]=9, Cell at [6][3]=4, Cell at [6][4]=6, Cell at [7][3]=8, Cell at [7][4]=2, Cell at [3][0]=5, Cell at [0][7]=4, Cell at [0][8]=7, Cell at [3][5]=4, Cell at [3][7]=6, Cell at [3][8]=2, Cell at [4][0]=2, Cell at [4][2]=7, Cell at [4][5]=6, Cell at [4][7]=5, Cell at [5][0]=3, Cell at [5][2]=6, Cell at [5][5]=5, Cell at [5][8]=4, Cell at [6][0]=7, Cell at [6][2]=5, Cell at [6][7]=1, Cell at [6][8]=9, Cell at [7][0]=4, Cell at [7][7]=7, Cell at [7][8]=6}
+Time to solve = 0.349segundos
+SOLUCION:
+152398647
+973641285
+864572931
+598714362
+247936158
+316285794
+725463819
+431829576
+689157423
+Sudoku solucionado correctamente
+---------
+.........
+.5724...9
+8....947.
+..9..3...
+5..9..12.
+..3.1.9..
+.6....25.
+...56....
+.7......6
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][5]=3, Cell at [7][3]=5, Cell at [7][4]=6, Cell at [8][1]=7, Cell at [8][8]=6, Cell at [3][2]=9, Cell at [6][1]=6, Cell at [2][0]=8, Cell at [2][5]=9, Cell at [4][0]=5, Cell at [5][2]=3, Cell at [5][4]=1, Cell at [6][7]=5, Cell at [1][8]=9, Cell at [2][7]=7, Cell at [4][3]=9, Cell at [4][7]=2, Cell at [5][6]=9, Cell at [6][6]=2, Cell at [1][1]=5, Cell at [1][2]=7, Cell at [1][3]=2, Cell at [1][4]=4, Cell at [2][6]=4, Cell at [4][6]=1, Cell at [8][6]=3, Cell at [2][4]=5, Cell at [4][1]=8, Cell at [4][4]=7, Cell at [0][4]=3, Cell at [4][8]=3, Cell at [2][8]=1, Cell at [2][2]=2, Cell at [2][1]=3, Cell at [2][3]=6, Cell at [0][7]=8, Cell at [0][8]=2, Cell at [1][0]=1, Cell at [1][5]=8, Cell at [0][6]=5, Cell at [1][7]=3, Cell at [1][6]=6, Cell at [3][3]=4, Cell at [0][0]=9, Cell at [0][1]=4, Cell at [0][2]=6, Cell at [0][3]=7, Cell at [0][5]=1, Cell at [3][0]=7, Cell at [3][1]=1, Cell at [3][4]=2, Cell at [3][6]=8, Cell at [3][7]=6, Cell at [3][8]=5, Cell at [4][2]=4, Cell at [4][5]=6, Cell at [5][0]=6, Cell at [5][1]=2, Cell at [5][3]=8, Cell at [5][5]=5, Cell at [5][7]=4, Cell at [5][8]=7, Cell at [6][0]=4, Cell at [6][2]=1, Cell at [6][3]=3, Cell at [6][4]=9, Cell at [6][5]=7, Cell at [6][8]=8, Cell at [7][0]=3, Cell at [7][1]=9, Cell at [7][2]=8, Cell at [7][5]=2, Cell at [7][6]=7, Cell at [7][7]=1, Cell at [7][8]=4, Cell at [8][0]=2, Cell at [8][2]=5, Cell at [8][3]=1, Cell at [8][4]=8, Cell at [8][5]=4, Cell at [8][7]=9}
+Time to solve = 0.055segundos
+SOLUCION:
+946731582
+157248639
+832659471
+719423865
+584976123
+623815947
+461397258
+398562714
+275184396
+Sudoku solucionado correctamente
+---------
+....75...
+.1..2....
+.4...3...
+5.....3.2
+...8...1.
+......6..
+...1..48.
+2........
+7........
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [4][3]=8, Cell at [1][1]=1, Cell at [2][1]=4, Cell at [6][3]=1, Cell at [7][0]=2, Cell at [8][0]=7, Cell at [3][0]=5, Cell at [6][7]=8, Cell at [0][4]=7, Cell at [0][5]=5, Cell at [1][4]=2, Cell at [2][5]=3, Cell at [3][8]=2, Cell at [4][7]=1, Cell at [5][6]=6, Cell at [6][6]=4, Cell at [3][6]=3, Cell at [2][3]=6, Cell at [2][0]=8, Cell at [0][3]=4, Cell at [3][3]=7, Cell at [1][5]=8, Cell at [2][4]=1, Cell at [1][3]=9, Cell at [1][6]=5, Cell at [2][8]=9, Cell at [7][3]=3, Cell at [2][7]=7, Cell at [2][2]=5, Cell at [2][6]=2, Cell at [8][6]=9, Cell at [7][6]=1, Cell at [4][6]=7, Cell at [0][6]=8, Cell at [4][8]=5, Cell at [8][8]=3, Cell at [5][3]=2, Cell at [8][3]=5, Cell at [8][1]=8, Cell at [3][1]=6, Cell at [6][4]=9, Cell at [0][0]=9, Cell at [0][1]=3, Cell at [0][2]=2, Cell at [0][7]=6, Cell at [0][8]=1, Cell at [1][0]=6, Cell at [1][2]=7, Cell at [1][7]=3, Cell at [1][8]=4, Cell at [3][2]=8, Cell at [3][4]=4, Cell at [3][5]=1, Cell at [3][7]=9, Cell at [4][0]=4, Cell at [4][1]=2, Cell at [4][2]=9, Cell at [4][4]=3, Cell at [4][5]=6, Cell at [5][0]=1, Cell at [5][1]=7, Cell at [5][2]=3, Cell at [5][4]=5, Cell at [5][5]=9, Cell at [5][7]=4, Cell at [5][8]=8, Cell at [6][0]=3, Cell at [6][1]=5, Cell at [6][2]=6, Cell at [6][5]=2, Cell at [6][8]=7, Cell at [7][1]=9, Cell at [7][2]=4, Cell at [7][4]=8, Cell at [7][5]=7, Cell at [7][7]=5, Cell at [7][8]=6, Cell at [8][2]=1, Cell at [8][4]=6, Cell at [8][5]=4, Cell at [8][7]=2}
+Time to solve = 0.715segundos
+SOLUCION:
+932475861
+617928534
+845613279
+568741392
+429836715
+173259648
+356192487
+294387156
+781564923
+Sudoku solucionado correctamente
+---------
+6.....7.3
+.4.8.....
+.........
+...5.4.8.
+7..2.....
+1.3......
+.2.....5.
+....7.9..
+....1....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [6][1]=2, Cell at [8][4]=1, Cell at [0][8]=3, Cell at [1][1]=4, Cell at [1][3]=8, Cell at [3][7]=8, Cell at [5][2]=3, Cell at [6][7]=5, Cell at [7][4]=7, Cell at [7][6]=9, Cell at [0][6]=7, Cell at [3][5]=4, Cell at [0][0]=6, Cell at [4][0]=7, Cell at [4][3]=2, Cell at [5][0]=1, Cell at [3][3]=5, Cell at [3][1]=9, Cell at [3][8]=7, Cell at [3][6]=1, Cell at [3][4]=3, Cell at [3][2]=6, Cell at [3][0]=2, Cell at [4][1]=8, Cell at [0][1]=1, Cell at [4][2]=4, Cell at [5][1]=5, Cell at [0][3]=4, Cell at [7][3]=3, Cell at [7][1]=6, Cell at [0][7]=2, Cell at [1][6]=5, Cell at [0][5]=9, Cell at [0][2]=8, Cell at [0][4]=5, Cell at [6][5]=8, Cell at [2][4]=2, Cell at [6][4]=4, Cell at [1][4]=6, Cell at [5][4]=8, Cell at [4][4]=9, Cell at [6][8]=1, Cell at [1][0]=3, Cell at [1][2]=2, Cell at [1][5]=7, Cell at [1][7]=1, Cell at [1][8]=9, Cell at [2][0]=5, Cell at [2][1]=7, Cell at [2][2]=9, Cell at [2][3]=1, Cell at [2][5]=3, Cell at [2][6]=4, Cell at [2][7]=6, Cell at [2][8]=8, Cell at [4][5]=1, Cell at [4][6]=6, Cell at [4][7]=3, Cell at [4][8]=5, Cell at [5][3]=7, Cell at [5][5]=6, Cell at [5][6]=2, Cell at [5][7]=9, Cell at [5][8]=4, Cell at [6][0]=9, Cell at [6][2]=7, Cell at [6][3]=6, Cell at [6][6]=3, Cell at [7][0]=8, Cell at [7][2]=1, Cell at [7][5]=5, Cell at [7][7]=4, Cell at [7][8]=2, Cell at [8][0]=4, Cell at [8][1]=3, Cell at [8][2]=5, Cell at [8][3]=9, Cell at [8][5]=2, Cell at [8][6]=8, Cell at [8][7]=7, Cell at [8][8]=6}
+Time to solve = 0.714segundos
+SOLUCION:
+618459723
+342867519
+579123468
+296534187
+784291635
+153786294
+927648351
+861375942
+435912876
+Sudoku solucionado correctamente
+---------
+....6...4
+..6.3....
+1..4..5.7
+7.....8.5
+...8.....
+6.8....9.
+..2.9....
+4....32..
+..97..1..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [4][3]=8, Cell at [5][7]=9, Cell at [7][5]=3, Cell at [6][4]=9, Cell at [0][4]=6, Cell at [1][4]=3, Cell at [3][8]=5, Cell at [8][3]=7, Cell at [3][0]=7, Cell at [5][0]=6, Cell at [6][2]=2, Cell at [7][0]=4, Cell at [0][8]=4, Cell at [1][2]=6, Cell at [2][3]=4, Cell at [5][2]=8, Cell at [7][6]=2, Cell at [8][2]=9, Cell at [8][6]=1, Cell at [2][0]=1, Cell at [3][6]=8, Cell at [2][2]=3, Cell at [2][8]=7, Cell at [0][6]=3, Cell at [1][6]=9, Cell at [2][6]=5, Cell at [0][2]=7, Cell at [2][4]=8, Cell at [2][1]=2, Cell at [2][5]=9, Cell at [2][7]=6, Cell at [7][4]=5, Cell at [6][3]=1, Cell at [4][2]=5, Cell at [7][3]=6, Cell at [3][2]=4, Cell at [7][2]=1, Cell at [5][1]=1, Cell at [3][4]=2, Cell at [3][7]=1, Cell at [4][1]=9, Cell at [5][8]=2, Cell at [1][5]=7, Cell at [4][0]=2, Cell at [0][5]=1, Cell at [3][1]=3, Cell at [5][6]=4, Cell at [6][5]=8, Cell at [8][4]=4, Cell at [8][5]=2, Cell at [4][4]=1, Cell at [4][5]=4, Cell at [3][3]=9, Cell at [5][3]=3, Cell at [3][5]=6, Cell at [5][4]=7, Cell at [5][5]=5, Cell at [6][8]=3, Cell at [0][0]=9, Cell at [0][1]=5, Cell at [0][3]=2, Cell at [0][7]=8, Cell at [1][0]=8, Cell at [1][1]=4, Cell at [1][3]=5, Cell at [1][7]=2, Cell at [1][8]=1, Cell at [4][6]=7, Cell at [4][7]=3, Cell at [4][8]=6, Cell at [6][0]=5, Cell at [6][1]=7, Cell at [6][6]=6, Cell at [6][7]=4, Cell at [7][1]=8, Cell at [7][7]=7, Cell at [7][8]=9, Cell at [8][0]=3, Cell at [8][1]=6, Cell at [8][7]=5, Cell at [8][8]=8}
+Time to solve = 0.069segundos
+SOLUCION:
+957261384
+846537921
+123489567
+734926815
+295814736
+618375492
+572198643
+481653279
+369742158
+Sudoku solucionado correctamente
+---------
+.32.....5
+8..3.....
+9.428...1
+...4...39
+...6...5.
+....1....
+.2...67.8
+.....4...
+.95....6.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [5][4]=1, Cell at [7][5]=4, Cell at [4][3]=6, Cell at [4][7]=5, Cell at [6][5]=6, Cell at [6][6]=7, Cell at [8][2]=5, Cell at [1][0]=8, Cell at [1][3]=3, Cell at [3][3]=4, Cell at [3][7]=3, Cell at [3][8]=9, Cell at [8][1]=9, Cell at [8][7]=6, Cell at [0][8]=5, Cell at [6][1]=2, Cell at [6][8]=8, Cell at [0][2]=2, Cell at [0][1]=3, Cell at [2][4]=8, Cell at [2][6]=3, Cell at [2][5]=5, Cell at [2][0]=9, Cell at [2][3]=2, Cell at [2][7]=7, Cell at [2][8]=1, Cell at [2][2]=4, Cell at [2][1]=6, Cell at [7][8]=2, Cell at [8][6]=4, Cell at [8][8]=3, Cell at [8][4]=2, Cell at [3][4]=5, Cell at [6][2]=1, Cell at [0][0]=1, Cell at [1][2]=7, Cell at [7][1]=8, Cell at [7][6]=5, Cell at [1][1]=5, Cell at [6][3]=5, Cell at [6][4]=3, Cell at [8][0]=7, Cell at [7][7]=1, Cell at [6][0]=4, Cell at [6][7]=9, Cell at [4][0]=3, Cell at [5][0]=5, Cell at [3][0]=2, Cell at [7][2]=3, Cell at [7][0]=6, Cell at [0][5]=9, Cell at [0][3]=7, Cell at [0][4]=4, Cell at [0][6]=6, Cell at [0][7]=8, Cell at [1][4]=6, Cell at [1][5]=1, Cell at [1][6]=9, Cell at [1][7]=2, Cell at [1][8]=4, Cell at [3][1]=1, Cell at [3][2]=6, Cell at [3][5]=7, Cell at [3][6]=8, Cell at [4][1]=4, Cell at [4][2]=8, Cell at [4][4]=9, Cell at [4][5]=2, Cell at [4][6]=1, Cell at [4][8]=7, Cell at [5][1]=7, Cell at [5][2]=9, Cell at [5][3]=8, Cell at [5][5]=3, Cell at [5][6]=2, Cell at [5][7]=4, Cell at [5][8]=6, Cell at [7][3]=9, Cell at [7][4]=7, Cell at [8][3]=1, Cell at [8][5]=8}
+Time to solve = 0.174segundos
+SOLUCION:
+132749685
+857361924
+964285371
+216457839
+348692157
+579813246
+421536798
+683974512
+795128463
+Sudoku solucionado correctamente
+---------
+...5.3...
+....6.7..
+5.8....16
+36..2....
+...4.1...
+....3...5
+67....2.8
+..4.7....
+...2..5..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [5][8]=5, Cell at [0][5]=3, Cell at [3][1]=6, Cell at [7][2]=4, Cell at [8][3]=2, Cell at [0][3]=5, Cell at [1][6]=7, Cell at [2][2]=8, Cell at [2][7]=1, Cell at [3][0]=3, Cell at [4][5]=1, Cell at [7][4]=7, Cell at [8][6]=5, Cell at [1][4]=6, Cell at [2][0]=5, Cell at [4][3]=4, Cell at [6][1]=7, Cell at [2][8]=6, Cell at [5][4]=3, Cell at [6][0]=6, Cell at [6][6]=2, Cell at [6][8]=8, Cell at [3][4]=2, Cell at [2][3]=7, Cell at [3][3]=9, Cell at [1][3]=8, Cell at [5][3]=6, Cell at [5][5]=7, Cell at [7][3]=3, Cell at [6][3]=1, Cell at [7][7]=6, Cell at [7][6]=1, Cell at [7][8]=9, Cell at [0][8]=2, Cell at [4][8]=3, Cell at [3][8]=1, Cell at [1][8]=4, Cell at [8][8]=7, Cell at [3][2]=7, Cell at [0][7]=9, Cell at [0][0]=7, Cell at [0][1]=4, Cell at [0][2]=6, Cell at [0][4]=1, Cell at [0][6]=8, Cell at [1][0]=1, Cell at [1][1]=3, Cell at [1][2]=2, Cell at [1][5]=9, Cell at [1][7]=5, Cell at [2][1]=9, Cell at [2][4]=4, Cell at [2][5]=2, Cell at [2][6]=3, Cell at [3][5]=5, Cell at [3][6]=4, Cell at [3][7]=8, Cell at [4][0]=9, Cell at [4][1]=2, Cell at [4][2]=5, Cell at [4][4]=8, Cell at [4][6]=6, Cell at [4][7]=7, Cell at [5][0]=4, Cell at [5][1]=8, Cell at [5][2]=1, Cell at [5][6]=9, Cell at [5][7]=2, Cell at [6][2]=9, Cell at [6][4]=5, Cell at [6][5]=4, Cell at [6][7]=3, Cell at [7][0]=2, Cell at [7][1]=5, Cell at [7][5]=8, Cell at [8][0]=8, Cell at [8][1]=1, Cell at [8][2]=3, Cell at [8][4]=9, Cell at [8][5]=6, Cell at [8][7]=4}
+Time to solve = 0.259segundos
+SOLUCION:
+746513892
+132869754
+598742316
+367925481
+925481673
+481637925
+679154238
+254378169
+813296547
+Sudoku solucionado correctamente
+---------
+.5.3.7.4.
+1........
+.3.......
+5.8.3.61.
+...8..5.9
+.6..1....
+....4...6
+...6927..
+..2...9..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [8][2]=2, Cell at [1][0]=1, Cell at [0][7]=4, Cell at [2][1]=3, Cell at [6][8]=6, Cell at [0][5]=7, Cell at [5][1]=6, Cell at [0][3]=3, Cell at [4][3]=8, Cell at [4][8]=9, Cell at [5][4]=1, Cell at [8][6]=9, Cell at [0][1]=5, Cell at [3][0]=5, Cell at [3][2]=8, Cell at [6][4]=4, Cell at [7][5]=2, Cell at [3][7]=1, Cell at [4][6]=5, Cell at [7][3]=6, Cell at [7][6]=7, Cell at [3][4]=3, Cell at [7][4]=9, Cell at [3][6]=6, Cell at [4][5]=4, Cell at [5][5]=5, Cell at [3][5]=9, Cell at [1][5]=6, Cell at [0][2]=6, Cell at [2][5]=1, Cell at [2][6]=2, Cell at [0][8]=1, Cell at [6][6]=1, Cell at [0][0]=9, Cell at [1][6]=3, Cell at [5][6]=4, Cell at [0][4]=2, Cell at [0][6]=8, Cell at [6][3]=5, Cell at [1][2]=7, Cell at [1][1]=2, Cell at [1][3]=4, Cell at [1][4]=8, Cell at [1][7]=9, Cell at [1][8]=5, Cell at [2][0]=8, Cell at [2][2]=4, Cell at [2][3]=9, Cell at [2][4]=5, Cell at [2][7]=6, Cell at [2][8]=7, Cell at [3][1]=4, Cell at [3][3]=7, Cell at [3][8]=2, Cell at [4][0]=2, Cell at [4][1]=7, Cell at [4][2]=1, Cell at [4][4]=6, Cell at [4][7]=3, Cell at [5][0]=3, Cell at [5][2]=9, Cell at [5][3]=2, Cell at [5][7]=7, Cell at [5][8]=8, Cell at [6][0]=7, Cell at [6][1]=9, Cell at [6][2]=3, Cell at [6][5]=8, Cell at [6][7]=2, Cell at [7][0]=4, Cell at [7][1]=1, Cell at [7][2]=5, Cell at [7][7]=8, Cell at [7][8]=3, Cell at [8][0]=6, Cell at [8][1]=8, Cell at [8][3]=1, Cell at [8][4]=7, Cell at [8][5]=3, Cell at [8][7]=5, Cell at [8][8]=4}
+Time to solve = 0.316segundos
+SOLUCION:
+956327841
+127486395
+834951267
+548739612
+271864539
+369215478
+793548126
+415692783
+682173954
+Sudoku solucionado correctamente
+---------
+..5..8..1
+8......9.
+......78.
+...4.....
+64....9..
+....53..2
+.6.......
+..138..5.
+...9.714.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [6][1]=6, Cell at [1][0]=8, Cell at [0][2]=5, Cell at [0][5]=8, Cell at [3][3]=4, Cell at [4][0]=6, Cell at [4][1]=4, Cell at [5][8]=2, Cell at [4][6]=9, Cell at [5][4]=5, Cell at [7][2]=1, Cell at [0][8]=1, Cell at [2][6]=7, Cell at [5][5]=3, Cell at [1][7]=9, Cell at [2][7]=8, Cell at [7][4]=8, Cell at [8][6]=1, Cell at [7][3]=3, Cell at [7][7]=5, Cell at [8][3]=9, Cell at [8][5]=7, Cell at [8][7]=4, Cell at [4][5]=2, Cell at [4][4]=7, Cell at [4][2]=3, Cell at [4][8]=5, Cell at [4][7]=1, Cell at [4][3]=8, Cell at [8][2]=8, Cell at [5][2]=9, Cell at [3][2]=2, Cell at [2][2]=4, Cell at [6][2]=7, Cell at [1][2]=6, Cell at [1][8]=4, Cell at [1][5]=1, Cell at [1][4]=3, Cell at [6][7]=3, Cell at [0][0]=9, Cell at [0][1]=3, Cell at [0][3]=7, Cell at [0][4]=4, Cell at [0][6]=6, Cell at [0][7]=2, Cell at [1][1]=7, Cell at [1][3]=2, Cell at [1][6]=5, Cell at [2][0]=1, Cell at [2][1]=2, Cell at [2][3]=6, Cell at [2][4]=9, Cell at [2][5]=5, Cell at [2][8]=3, Cell at [3][0]=5, Cell at [3][1]=1, Cell at [3][4]=6, Cell at [3][5]=9, Cell at [3][6]=3, Cell at [3][7]=7, Cell at [3][8]=8, Cell at [5][0]=7, Cell at [5][1]=8, Cell at [5][3]=1, Cell at [5][6]=4, Cell at [5][7]=6, Cell at [6][0]=2, Cell at [6][3]=5, Cell at [6][4]=1, Cell at [6][5]=4, Cell at [6][6]=8, Cell at [6][8]=9, Cell at [7][0]=4, Cell at [7][1]=9, Cell at [7][5]=6, Cell at [7][6]=2, Cell at [7][8]=7, Cell at [8][0]=3, Cell at [8][1]=5, Cell at [8][4]=2, Cell at [8][8]=6}
+Time to solve = 0.369segundos
+SOLUCION:
+935748621
+876231594
+124695783
+512469378
+643872915
+789153462
+267514839
+491386257
+358927146
+Sudoku solucionado correctamente
+---------
+.........
+.72.6.1..
+..51...82
+.8...13..
+4........
+.37.9..1.
+....238..
+5.4..9...
+......79.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [2][3]=1, Cell at [4][0]=4, Cell at [7][0]=5, Cell at [2][8]=2, Cell at [3][5]=1, Cell at [8][7]=9, Cell at [1][4]=6, Cell at [3][6]=3, Cell at [5][4]=9, Cell at [5][7]=1, Cell at [6][4]=2, Cell at [6][5]=3, Cell at [7][2]=4, Cell at [7][5]=9, Cell at [8][6]=7, Cell at [1][1]=7, Cell at [2][7]=8, Cell at [3][1]=8, Cell at [6][6]=8, Cell at [1][2]=2, Cell at [1][6]=1, Cell at [2][2]=5, Cell at [5][1]=3, Cell at [5][2]=7, Cell at [2][5]=7, Cell at [5][0]=2, Cell at [7][6]=2, Cell at [7][1]=6, Cell at [7][8]=1, Cell at [7][7]=3, Cell at [8][1]=2, Cell at [1][7]=5, Cell at [2][4]=3, Cell at [3][0]=9, Cell at [2][0]=6, Cell at [4][1]=5, Cell at [4][2]=1, Cell at [6][0]=7, Cell at [6][1]=1, Cell at [6][2]=9, Cell at [3][2]=6, Cell at [4][4]=7, Cell at [7][3]=7, Cell at [7][4]=8, Cell at [0][4]=5, Cell at [3][4]=4, Cell at [8][4]=1, Cell at [3][8]=7, Cell at [0][0]=1, Cell at [0][1]=4, Cell at [0][2]=3, Cell at [0][3]=2, Cell at [0][5]=8, Cell at [0][6]=6, Cell at [0][7]=7, Cell at [0][8]=9, Cell at [1][0]=8, Cell at [1][3]=9, Cell at [1][5]=4, Cell at [1][8]=3, Cell at [2][1]=9, Cell at [2][6]=4, Cell at [3][3]=5, Cell at [3][7]=2, Cell at [4][3]=3, Cell at [4][5]=2, Cell at [4][6]=9, Cell at [4][7]=6, Cell at [4][8]=8, Cell at [5][3]=8, Cell at [5][5]=6, Cell at [5][6]=5, Cell at [5][8]=4, Cell at [6][3]=6, Cell at [6][7]=4, Cell at [6][8]=5, Cell at [8][0]=3, Cell at [8][2]=8, Cell at [8][3]=4, Cell at [8][5]=5, Cell at [8][8]=6}
+Time to solve = 0.206segundos
+SOLUCION:
+143258679
+872964153
+695137482
+986541327
+451372968
+237896514
+719623845
+564789231
+328415796
+Sudoku solucionado correctamente
+---------
+...658...
+..4......
+12.......
+.....96.7
+...3..5..
+..2.8...3
+..19..8..
+3.6.....4
+....473..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [2][1]=2, Cell at [2][0]=1, Cell at [1][2]=4, Cell at [4][3]=3, Cell at [5][2]=2, Cell at [7][0]=3, Cell at [0][3]=6, Cell at [0][4]=5, Cell at [0][5]=8, Cell at [3][5]=9, Cell at [5][4]=8, Cell at [6][3]=9, Cell at [7][8]=4, Cell at [8][4]=4, Cell at [8][5]=7, Cell at [3][8]=7, Cell at [4][6]=5, Cell at [5][8]=3, Cell at [6][2]=1, Cell at [6][6]=8, Cell at [7][2]=6, Cell at [8][6]=3, Cell at [3][6]=6, Cell at [0][0]=9, Cell at [0][8]=1, Cell at [2][3]=7, Cell at [2][6]=9, Cell at [2][4]=3, Cell at [2][5]=4, Cell at [1][6]=7, Cell at [0][1]=3, Cell at [0][2]=7, Cell at [4][2]=9, Cell at [0][7]=4, Cell at [0][6]=2, Cell at [1][0]=8, Cell at [1][1]=6, Cell at [1][3]=2, Cell at [1][4]=9, Cell at [1][5]=1, Cell at [1][7]=3, Cell at [1][8]=5, Cell at [2][2]=5, Cell at [2][7]=8, Cell at [2][8]=6, Cell at [3][0]=5, Cell at [3][1]=8, Cell at [3][2]=3, Cell at [3][3]=4, Cell at [3][4]=1, Cell at [3][7]=2, Cell at [4][0]=6, Cell at [4][1]=4, Cell at [4][4]=7, Cell at [4][5]=2, Cell at [4][7]=1, Cell at [4][8]=8, Cell at [5][0]=7, Cell at [5][1]=1, Cell at [5][3]=5, Cell at [5][5]=6, Cell at [5][6]=4, Cell at [5][7]=9, Cell at [6][0]=4, Cell at [6][1]=7, Cell at [6][4]=6, Cell at [6][5]=3, Cell at [6][7]=5, Cell at [6][8]=2, Cell at [7][1]=9, Cell at [7][3]=8, Cell at [7][4]=2, Cell at [7][5]=5, Cell at [7][6]=1, Cell at [7][7]=7, Cell at [8][0]=2, Cell at [8][1]=5, Cell at [8][2]=8, Cell at [8][3]=1, Cell at [8][7]=6, Cell at [8][8]=9}
+Time to solve = 0.23segundos
+SOLUCION:
+937658241
+864291735
+125734986
+583419627
+649372518
+712586493
+471963852
+396825174
+258147369
+Sudoku solucionado correctamente
+---------
+.2.3.....
+..6..8.9.
+83.5.....
+...2...8.
+7.9..5...
+.....6..4
+.......1.
+..1...4.2
+2..7..8.9
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][7]=9, Cell at [3][7]=8, Cell at [5][8]=4, Cell at [0][1]=2, Cell at [4][0]=7, Cell at [4][2]=9, Cell at [5][5]=6, Cell at [7][2]=1, Cell at [0][3]=3, Cell at [1][5]=8, Cell at [2][1]=3, Cell at [3][3]=2, Cell at [4][5]=5, Cell at [6][7]=1, Cell at [8][0]=2, Cell at [8][3]=7, Cell at [1][2]=6, Cell at [2][0]=8, Cell at [2][3]=5, Cell at [7][6]=4, Cell at [7][8]=2, Cell at [8][6]=8, Cell at [8][8]=9, Cell at [7][5]=9, Cell at [1][3]=4, Cell at [6][3]=6, Cell at [5][3]=9, Cell at [4][3]=1, Cell at [7][3]=8, Cell at [4][8]=6, Cell at [2][8]=1, Cell at [4][1]=4, Cell at [3][2]=3, Cell at [3][4]=4, Cell at [1][4]=7, Cell at [0][8]=8, Cell at [0][5]=1, Cell at [6][8]=7, Cell at [1][8]=3, Cell at [2][5]=2, Cell at [3][8]=5, Cell at [3][5]=7, Cell at [8][1]=6, Cell at [0][0]=9, Cell at [0][2]=4, Cell at [0][4]=6, Cell at [0][6]=7, Cell at [0][7]=5, Cell at [1][0]=1, Cell at [1][1]=5, Cell at [1][6]=2, Cell at [2][2]=7, Cell at [2][4]=9, Cell at [2][6]=6, Cell at [2][7]=4, Cell at [3][0]=6, Cell at [3][1]=1, Cell at [3][6]=9, Cell at [4][4]=8, Cell at [4][6]=3, Cell at [4][7]=2, Cell at [5][0]=5, Cell at [5][1]=8, Cell at [5][2]=2, Cell at [5][4]=3, Cell at [5][6]=1, Cell at [5][7]=7, Cell at [6][0]=4, Cell at [6][1]=9, Cell at [6][2]=8, Cell at [6][4]=2, Cell at [6][5]=3, Cell at [6][6]=5, Cell at [7][0]=3, Cell at [7][1]=7, Cell at [7][4]=5, Cell at [7][7]=6, Cell at [8][2]=5, Cell at [8][4]=1, Cell at [8][5]=4, Cell at [8][7]=3}
+Time to solve = 0.209segundos
+SOLUCION:
+924361758
+156478293
+837592641
+613247985
+749185326
+582936174
+498623517
+371859462
+265714839
+Sudoku solucionado correctamente
+---------
+.5..9....
+1.....6..
+...3.8...
+..8.4...9
+514......
+.3....2..
+........4
+.8...6..7
+7..15..6.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][6]=6, Cell at [5][6]=2, Cell at [1][0]=1, Cell at [2][3]=3, Cell at [2][5]=8, Cell at [3][4]=4, Cell at [6][8]=4, Cell at [0][1]=5, Cell at [0][4]=9, Cell at [3][8]=9, Cell at [7][5]=6, Cell at [8][7]=6, Cell at [7][1]=8, Cell at [7][8]=7, Cell at [8][0]=7, Cell at [8][3]=1, Cell at [3][2]=8, Cell at [4][2]=4, Cell at [8][4]=5, Cell at [4][0]=5, Cell at [5][1]=3, Cell at [4][1]=1, Cell at [1][4]=7, Cell at [5][0]=6, Cell at [5][2]=9, Cell at [3][0]=2, Cell at [3][1]=7, Cell at [1][2]=3, Cell at [8][2]=2, Cell at [3][3]=6, Cell at [0][3]=4, Cell at [0][0]=8, Cell at [6][1]=6, Cell at [5][4]=1, Cell at [5][5]=7, Cell at [7][3]=2, Cell at [0][2]=6, Cell at [0][5]=1, Cell at [0][6]=3, Cell at [0][7]=7, Cell at [0][8]=2, Cell at [1][1]=4, Cell at [1][3]=5, Cell at [1][5]=2, Cell at [1][7]=9, Cell at [1][8]=8, Cell at [2][0]=9, Cell at [2][1]=2, Cell at [2][2]=7, Cell at [2][4]=6, Cell at [2][6]=4, Cell at [2][7]=5, Cell at [2][8]=1, Cell at [3][5]=5, Cell at [3][6]=1, Cell at [3][7]=3, Cell at [4][3]=9, Cell at [4][4]=2, Cell at [4][5]=3, Cell at [4][6]=7, Cell at [4][7]=8, Cell at [4][8]=6, Cell at [5][3]=8, Cell at [5][7]=4, Cell at [5][8]=5, Cell at [6][0]=3, Cell at [6][2]=1, Cell at [6][3]=7, Cell at [6][4]=8, Cell at [6][5]=9, Cell at [6][6]=5, Cell at [6][7]=2, Cell at [7][0]=4, Cell at [7][2]=5, Cell at [7][4]=3, Cell at [7][6]=9, Cell at [7][7]=1, Cell at [8][1]=9, Cell at [8][5]=4, Cell at [8][6]=8, Cell at [8][8]=3}
+Time to solve = 0.193segundos
+SOLUCION:
+856491372
+143572698
+927368451
+278645139
+514923786
+639817245
+361789524
+485236917
+792154863
+Sudoku solucionado correctamente
+---------
+.....2...
+....7...1
+7..3...9.
+8..7.....
+.2.89.6..
+.13..6...
+.9..5.824
+.....891.
+.........
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][8]=1, Cell at [2][0]=7, Cell at [0][5]=2, Cell at [1][4]=7, Cell at [2][7]=9, Cell at [3][0]=8, Cell at [4][6]=6, Cell at [5][2]=3, Cell at [7][5]=8, Cell at [2][3]=3, Cell at [3][3]=7, Cell at [6][1]=9, Cell at [5][1]=1, Cell at [5][5]=6, Cell at [6][4]=5, Cell at [4][1]=2, Cell at [4][3]=8, Cell at [4][4]=9, Cell at [7][6]=9, Cell at [7][7]=1, Cell at [6][8]=4, Cell at [6][6]=8, Cell at [6][7]=2, Cell at [4][0]=4, Cell at [3][1]=6, Cell at [3][2]=5, Cell at [5][0]=9, Cell at [4][2]=7, Cell at [3][7]=4, Cell at [6][2]=6, Cell at [6][0]=3, Cell at [6][3]=1, Cell at [6][5]=7, Cell at [4][8]=5, Cell at [3][6]=1, Cell at [3][8]=9, Cell at [4][7]=3, Cell at [5][3]=5, Cell at [5][4]=4, Cell at [3][4]=2, Cell at [3][5]=3, Cell at [4][5]=1, Cell at [8][4]=3, Cell at [7][4]=6, Cell at [8][6]=5, Cell at [2][6]=2, Cell at [5][8]=2, Cell at [5][7]=8, Cell at [5][6]=7, Cell at [8][0]=1, Cell at [0][0]=6, Cell at [0][3]=4, Cell at [0][1]=5, Cell at [0][2]=9, Cell at [0][4]=1, Cell at [0][6]=3, Cell at [0][7]=7, Cell at [0][8]=8, Cell at [1][0]=2, Cell at [1][1]=3, Cell at [1][2]=8, Cell at [1][3]=6, Cell at [1][5]=9, Cell at [1][6]=4, Cell at [1][7]=5, Cell at [2][1]=4, Cell at [2][2]=1, Cell at [2][4]=8, Cell at [2][5]=5, Cell at [2][8]=6, Cell at [7][0]=5, Cell at [7][1]=7, Cell at [7][2]=4, Cell at [7][3]=2, Cell at [7][8]=3, Cell at [8][1]=8, Cell at [8][2]=2, Cell at [8][3]=9, Cell at [8][5]=4, Cell at [8][7]=6, Cell at [8][8]=7}
+Time to solve = 0.123segundos
+SOLUCION:
+659412378
+238679451
+741385296
+865723149
+427891635
+913546782
+396157824
+574268913
+182934567
+Sudoku solucionado correctamente
+---------
+3...8....
+...7....5
+1........
+......36.
+..2..4...
+.7.......
+....6.13.
+.452.....
+......8..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][8]=5, Cell at [4][5]=4, Cell at [2][0]=1, Cell at [5][1]=7, Cell at [0][0]=3, Cell at [0][4]=8, Cell at [1][3]=7, Cell at [3][7]=6, Cell at [4][2]=2, Cell at [3][6]=3, Cell at [6][4]=6, Cell at [7][1]=4, Cell at [7][2]=5, Cell at [7][3]=2, Cell at [8][6]=8, Cell at [6][7]=3, Cell at [6][6]=1, Cell at [7][7]=9, Cell at [7][8]=6, Cell at [7][0]=8, Cell at [7][6]=7, Cell at [4][6]=5, Cell at [4][0]=9, Cell at [6][1]=2, Cell at [6][2]=9, Cell at [8][0]=6, Cell at [8][7]=5, Cell at [8][8]=2, Cell at [6][0]=7, Cell at [6][8]=4, Cell at [1][0]=2, Cell at [6][5]=5, Cell at [6][3]=8, Cell at [5][0]=5, Cell at [3][0]=4, Cell at [3][1]=8, Cell at [5][2]=6, Cell at [3][2]=1, Cell at [4][1]=3, Cell at [8][1]=1, Cell at [8][2]=3, Cell at [4][4]=1, Cell at [4][3]=6, Cell at [7][5]=1, Cell at [7][4]=3, Cell at [1][4]=4, Cell at [1][7]=1, Cell at [1][2]=8, Cell at [0][8]=7, Cell at [0][1]=5, Cell at [0][2]=4, Cell at [0][3]=1, Cell at [0][5]=6, Cell at [0][6]=9, Cell at [0][7]=2, Cell at [1][1]=9, Cell at [1][5]=3, Cell at [1][6]=6, Cell at [2][1]=6, Cell at [2][2]=7, Cell at [2][3]=9, Cell at [2][4]=5, Cell at [2][5]=2, Cell at [2][6]=4, Cell at [2][7]=8, Cell at [2][8]=3, Cell at [3][3]=5, Cell at [3][4]=2, Cell at [3][5]=7, Cell at [3][8]=9, Cell at [4][7]=7, Cell at [4][8]=8, Cell at [5][3]=3, Cell at [5][4]=9, Cell at [5][5]=8, Cell at [5][6]=2, Cell at [5][7]=4, Cell at [5][8]=1, Cell at [8][3]=4, Cell at [8][4]=7, Cell at [8][5]=9}
+Time to solve = 0.935segundos
+SOLUCION:
+354186927
+298743615
+167952483
+481527369
+932614578
+576398241
+729865134
+845231796
+613479852
+Sudoku solucionado correctamente
+---------
+85...24..
+72......9
+..4......
+...1.7..2
+3.5...9..
+.4.......
+....8..7.
+.17......
+....36.4.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][3]=1, Cell at [6][7]=7, Cell at [1][8]=9, Cell at [3][8]=2, Cell at [4][6]=9, Cell at [6][4]=8, Cell at [7][2]=7, Cell at [8][7]=4, Cell at [0][5]=2, Cell at [0][6]=4, Cell at [3][5]=7, Cell at [5][1]=4, Cell at [7][1]=1, Cell at [8][4]=3, Cell at [2][2]=4, Cell at [4][0]=3, Cell at [4][2]=5, Cell at [8][5]=6, Cell at [1][0]=7, Cell at [0][0]=8, Cell at [1][1]=2, Cell at [0][1]=5, Cell at [4][5]=8, Cell at [4][7]=1, Cell at [0][7]=3, Cell at [3][0]=9, Cell at [8][0]=5, Cell at [8][8]=1, Cell at [8][6]=2, Cell at [8][3]=7, Cell at [0][3]=6, Cell at [0][8]=7, Cell at [0][4]=1, Cell at [2][4]=7, Cell at [7][4]=2, Cell at [1][4]=5, Cell at [5][4]=9, Cell at [3][6]=3, Cell at [3][7]=5, Cell at [4][3]=2, Cell at [4][8]=4, Cell at [8][2]=8, Cell at [0][2]=9, Cell at [8][1]=9, Cell at [3][2]=6, Cell at [3][1]=8, Cell at [4][1]=7, Cell at [3][4]=4, Cell at [4][4]=6, Cell at [6][6]=6, Cell at [1][2]=3, Cell at [1][3]=8, Cell at [1][5]=4, Cell at [1][6]=1, Cell at [1][7]=6, Cell at [2][0]=1, Cell at [2][1]=6, Cell at [2][3]=3, Cell at [2][5]=9, Cell at [2][6]=5, Cell at [2][7]=2, Cell at [2][8]=8, Cell at [5][0]=2, Cell at [5][2]=1, Cell at [5][3]=5, Cell at [5][5]=3, Cell at [5][6]=7, Cell at [5][7]=8, Cell at [5][8]=6, Cell at [6][0]=4, Cell at [6][1]=3, Cell at [6][2]=2, Cell at [6][3]=9, Cell at [6][5]=1, Cell at [6][8]=5, Cell at [7][0]=6, Cell at [7][3]=4, Cell at [7][5]=5, Cell at [7][6]=8, Cell at [7][7]=9, Cell at [7][8]=3}
+Time to solve = 0.253segundos
+SOLUCION:
+859612437
+723854169
+164379528
+986147352
+375268914
+241593786
+432981675
+617425893
+598736241
+Sudoku solucionado correctamente
+---------
+..53.....
+8......2.
+.7..1.5..
+4....53..
+.1..7...6
+..32...8.
+.6.5....9
+..4....3.
+.....97..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [8][5]=9, Cell at [0][3]=3, Cell at [1][0]=8, Cell at [1][7]=2, Cell at [2][4]=1, Cell at [7][2]=4, Cell at [0][2]=5, Cell at [2][6]=5, Cell at [3][0]=4, Cell at [3][5]=5, Cell at [4][4]=7, Cell at [4][8]=6, Cell at [6][1]=6, Cell at [6][3]=5, Cell at [6][8]=9, Cell at [7][7]=3, Cell at [8][6]=7, Cell at [2][1]=7, Cell at [3][6]=3, Cell at [4][1]=1, Cell at [5][2]=3, Cell at [5][3]=2, Cell at [5][7]=8, Cell at [5][1]=5, Cell at [4][0]=2, Cell at [6][7]=1, Cell at [6][0]=3, Cell at [8][0]=5, Cell at [3][7]=7, Cell at [3][8]=2, Cell at [7][8]=5, Cell at [2][0]=6, Cell at [1][2]=9, Cell at [3][4]=8, Cell at [3][3]=1, Cell at [0][1]=4, Cell at [1][1]=3, Cell at [7][0]=9, Cell at [8][2]=1, Cell at [0][0]=1, Cell at [6][2]=7, Cell at [2][2]=2, Cell at [4][2]=8, Cell at [5][0]=7, Cell at [3][1]=9, Cell at [3][2]=6, Cell at [2][5]=8, Cell at [7][4]=6, Cell at [0][8]=8, Cell at [0][4]=2, Cell at [0][5]=7, Cell at [0][6]=6, Cell at [0][7]=9, Cell at [1][3]=6, Cell at [1][4]=5, Cell at [1][5]=4, Cell at [1][6]=1, Cell at [1][8]=7, Cell at [2][3]=9, Cell at [2][7]=4, Cell at [2][8]=3, Cell at [4][3]=4, Cell at [4][5]=3, Cell at [4][6]=9, Cell at [4][7]=5, Cell at [5][4]=9, Cell at [5][5]=6, Cell at [5][6]=4, Cell at [5][8]=1, Cell at [6][4]=4, Cell at [6][5]=2, Cell at [6][6]=8, Cell at [7][1]=8, Cell at [7][3]=7, Cell at [7][5]=1, Cell at [7][6]=2, Cell at [8][1]=2, Cell at [8][3]=8, Cell at [8][4]=3, Cell at [8][7]=6, Cell at [8][8]=4}
+Time to solve = 0.098segundos
+SOLUCION:
+145327698
+839654127
+672918543
+496185372
+218473956
+753296481
+367542819
+984761235
+521839764
+Sudoku solucionado correctamente
+---------
+12..4....
+..5.69.1.
+..9...5..
+.......7.
+7...52.9.
+.3......2
+.9.6...5.
+4..9..8.1
+..3...9.4
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [2][6]=5, Cell at [5][1]=3, Cell at [6][3]=6, Cell at [3][7]=7, Cell at [4][5]=2, Cell at [5][8]=2, Cell at [7][3]=9, Cell at [0][4]=4, Cell at [1][5]=9, Cell at [2][2]=9, Cell at [4][0]=7, Cell at [4][4]=5, Cell at [6][1]=9, Cell at [8][2]=3, Cell at [0][0]=1, Cell at [0][1]=2, Cell at [1][4]=6, Cell at [1][7]=1, Cell at [7][0]=4, Cell at [1][2]=5, Cell at [4][7]=9, Cell at [8][6]=9, Cell at [8][8]=4, Cell at [6][7]=5, Cell at [7][6]=8, Cell at [7][8]=1, Cell at [6][0]=8, Cell at [2][0]=6, Cell at [1][0]=3, Cell at [1][8]=7, Cell at [3][8]=5, Cell at [0][8]=9, Cell at [2][8]=8, Cell at [4][8]=6, Cell at [6][8]=3, Cell at [3][0]=9, Cell at [0][2]=8, Cell at [0][3]=5, Cell at [0][5]=7, Cell at [0][6]=6, Cell at [0][7]=3, Cell at [1][1]=4, Cell at [1][3]=8, Cell at [1][6]=2, Cell at [2][1]=7, Cell at [2][3]=2, Cell at [2][4]=1, Cell at [2][5]=3, Cell at [2][7]=4, Cell at [3][1]=1, Cell at [3][2]=2, Cell at [3][3]=4, Cell at [3][4]=8, Cell at [3][5]=6, Cell at [3][6]=3, Cell at [4][1]=8, Cell at [4][2]=4, Cell at [4][3]=3, Cell at [4][6]=1, Cell at [5][0]=5, Cell at [5][2]=6, Cell at [5][3]=7, Cell at [5][4]=9, Cell at [5][5]=1, Cell at [5][6]=4, Cell at [5][7]=8, Cell at [6][2]=1, Cell at [6][4]=2, Cell at [6][5]=4, Cell at [6][6]=7, Cell at [7][1]=6, Cell at [7][2]=7, Cell at [7][4]=3, Cell at [7][5]=5, Cell at [7][7]=2, Cell at [8][0]=2, Cell at [8][1]=5, Cell at [8][3]=1, Cell at [8][4]=7, Cell at [8][5]=8, Cell at [8][7]=6}
+Time to solve = 0.088segundos
+SOLUCION:
+128547639
+345869217
+679213548
+912486375
+784352196
+536791482
+891624753
+467935821
+253178964
+Sudoku solucionado correctamente
+---------
+...57..3.
+1......2.
+7...234..
+....8...4
+..7..4...
+49....6.5
+.42...3..
+...7..9..
+..18.....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [4][5]=4, Cell at [1][0]=1, Cell at [1][7]=2, Cell at [3][4]=8, Cell at [3][8]=4, Cell at [7][3]=7, Cell at [8][3]=8, Cell at [0][7]=3, Cell at [4][2]=7, Cell at [6][1]=4, Cell at [7][6]=9, Cell at [8][2]=1, Cell at [2][0]=7, Cell at [5][1]=9, Cell at [5][8]=5, Cell at [6][2]=2, Cell at [6][6]=3, Cell at [0][3]=5, Cell at [0][4]=7, Cell at [2][5]=3, Cell at [5][0]=4, Cell at [2][4]=2, Cell at [2][6]=4, Cell at [5][6]=6, Cell at [5][4]=1, Cell at [0][6]=1, Cell at [3][6]=7, Cell at [8][6]=5, Cell at [1][6]=8, Cell at [5][2]=3, Cell at [5][5]=7, Cell at [4][6]=2, Cell at [5][3]=2, Cell at [5][7]=8, Cell at [1][5]=6, Cell at [1][1]=3, Cell at [8][1]=7, Cell at [8][8]=2, Cell at [0][0]=6, Cell at [0][1]=2, Cell at [0][2]=4, Cell at [0][5]=8, Cell at [0][8]=9, Cell at [1][2]=5, Cell at [1][3]=4, Cell at [1][4]=9, Cell at [1][8]=7, Cell at [2][1]=8, Cell at [2][2]=9, Cell at [2][3]=1, Cell at [2][7]=5, Cell at [2][8]=6, Cell at [3][0]=2, Cell at [3][1]=1, Cell at [3][2]=6, Cell at [3][3]=3, Cell at [3][5]=5, Cell at [3][7]=9, Cell at [4][0]=8, Cell at [4][1]=5, Cell at [4][3]=9, Cell at [4][4]=6, Cell at [4][7]=1, Cell at [4][8]=3, Cell at [6][0]=9, Cell at [6][3]=6, Cell at [6][4]=5, Cell at [6][5]=1, Cell at [6][7]=7, Cell at [6][8]=8, Cell at [7][0]=5, Cell at [7][1]=6, Cell at [7][2]=8, Cell at [7][4]=3, Cell at [7][5]=2, Cell at [7][7]=4, Cell at [7][8]=1, Cell at [8][0]=3, Cell at [8][4]=4, Cell at [8][5]=9, Cell at [8][7]=6}
+Time to solve = 0.128segundos
+SOLUCION:
+624578139
+135496827
+789123456
+216385794
+857964213
+493217685
+942651378
+568732941
+371849562
+Sudoku solucionado correctamente
+---------
+7..1523..
+......92.
+...3.....
+1....47.8
+.......6.
+.........
+..9...5.6
+.4.9.7...
+8....6.1.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][0]=1, Cell at [3][5]=4, Cell at [2][0]=4, Cell at [2][3]=3, Cell at [1][6]=9, Cell at [3][8]=8, Cell at [4][7]=6, Cell at [5][7]=4, Cell at [0][1]=9, Cell at [0][2]=6, Cell at [1][5]=8, Cell at [3][6]=7, Cell at [2][5]=9, Cell at [6][1]=1, Cell at [6][2]=9, Cell at [8][4]=2, Cell at [0][4]=5, Cell at [1][7]=2, Cell at [8][3]=5, Cell at [0][0]=7, Cell at [0][3]=1, Cell at [2][7]=5, Cell at [3][7]=9, Cell at [7][1]=4, Cell at [7][2]=5, Cell at [7][4]=1, Cell at [0][8]=4, Cell at [6][0]=2, Cell at [7][3]=9, Cell at [8][0]=8, Cell at [0][6]=3, Cell at [6][5]=3, Cell at [6][8]=6, Cell at [8][5]=6, Cell at [8][8]=9, Cell at [0][5]=2, Cell at [6][6]=5, Cell at [7][0]=6, Cell at [8][6]=4, Cell at [7][5]=7, Cell at [7][8]=2, Cell at [0][7]=8, Cell at [7][6]=8, Cell at [6][7]=7, Cell at [8][7]=1, Cell at [7][7]=3, Cell at [3][2]=2, Cell at [1][0]=5, Cell at [1][1]=3, Cell at [1][2]=1, Cell at [1][3]=4, Cell at [1][4]=6, Cell at [1][8]=7, Cell at [2][1]=2, Cell at [2][2]=8, Cell at [2][4]=7, Cell at [2][6]=6, Cell at [2][8]=1, Cell at [3][1]=5, Cell at [3][3]=6, Cell at [3][4]=3, Cell at [4][0]=3, Cell at [4][1]=8, Cell at [4][2]=4, Cell at [4][3]=7, Cell at [4][4]=9, Cell at [4][5]=1, Cell at [4][6]=2, Cell at [4][8]=5, Cell at [5][0]=9, Cell at [5][1]=6, Cell at [5][2]=7, Cell at [5][3]=2, Cell at [5][4]=8, Cell at [5][5]=5, Cell at [5][6]=1, Cell at [5][8]=3, Cell at [6][3]=8, Cell at [6][4]=4, Cell at [8][1]=7, Cell at [8][2]=3}
+Time to solve = 0.033segundos
+SOLUCION:
+796152384
+531468927
+428379651
+152634798
+384791265
+967285143
+219843576
+645917832
+873526419
+Sudoku solucionado correctamente
+---------
+1....7.9.
+.3..2...8
+..96..5..
+..53..9..
+.1..8...2
+6....4...
+3......1.
+.4......7
+..7...3..
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [5][5]=4, Cell at [6][7]=1, Cell at [0][5]=7, Cell at [0][7]=9, Cell at [1][4]=2, Cell at [2][3]=6, Cell at [3][3]=3, Cell at [3][6]=9, Cell at [4][4]=8, Cell at [4][8]=2, Cell at [5][0]=6, Cell at [6][0]=3, Cell at [7][1]=4, Cell at [7][8]=7, Cell at [8][2]=7, Cell at [8][6]=3, Cell at [0][0]=1, Cell at [1][1]=3, Cell at [1][8]=8, Cell at [2][2]=9, Cell at [2][6]=5, Cell at [3][2]=5, Cell at [4][1]=1, Cell at [1][2]=4, Cell at [4][2]=3, Cell at [1][7]=7, Cell at [1][0]=5, Cell at [1][3]=1, Cell at [1][5]=9, Cell at [1][6]=6, Cell at [7][6]=8, Cell at [5][6]=1, Cell at [3][8]=6, Cell at [3][4]=1, Cell at [3][5]=2, Cell at [7][0]=2, Cell at [7][3]=9, Cell at [2][4]=4, Cell at [8][4]=6, Cell at [6][5]=8, Cell at [0][1]=6, Cell at [0][2]=2, Cell at [0][3]=8, Cell at [0][4]=5, Cell at [0][6]=4, Cell at [0][8]=3, Cell at [2][0]=7, Cell at [2][1]=8, Cell at [2][5]=3, Cell at [2][7]=2, Cell at [2][8]=1, Cell at [3][0]=4, Cell at [3][1]=7, Cell at [3][7]=8, Cell at [4][0]=9, Cell at [4][3]=5, Cell at [4][5]=6, Cell at [4][6]=7, Cell at [4][7]=4, Cell at [5][1]=2, Cell at [5][2]=8, Cell at [5][3]=7, Cell at [5][4]=9, Cell at [5][7]=3, Cell at [5][8]=5, Cell at [6][1]=5, Cell at [6][2]=6, Cell at [6][3]=4, Cell at [6][4]=7, Cell at [6][6]=2, Cell at [6][8]=9, Cell at [7][2]=1, Cell at [7][4]=3, Cell at [7][5]=5, Cell at [7][7]=6, Cell at [8][0]=8, Cell at [8][1]=9, Cell at [8][3]=2, Cell at [8][5]=1, Cell at [8][7]=5, Cell at [8][8]=4}
+Time to solve = 0.241segundos
+SOLUCION:
+162857493
+534129678
+789643521
+475312986
+913586742
+628794135
+356478219
+241935867
+897261354
+Sudoku solucionado correctamente
+---------
+1...34.8.
+...8..5..
+..4.6..21
+.18......
+3..1.2..6
+......81.
+52..7.9..
+..6..9...
+.9.64...2
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [3][1]=1, Cell at [5][6]=8, Cell at [0][0]=1, Cell at [1][6]=5, Cell at [3][2]=8, Cell at [5][7]=1, Cell at [1][3]=8, Cell at [2][2]=4, Cell at [4][0]=3, Cell at [4][3]=1, Cell at [4][5]=2, Cell at [4][8]=6, Cell at [7][2]=6, Cell at [0][4]=3, Cell at [0][5]=4, Cell at [0][7]=8, Cell at [2][4]=6, Cell at [2][7]=2, Cell at [2][8]=1, Cell at [7][5]=9, Cell at [8][1]=9, Cell at [8][8]=2, Cell at [8][3]=6, Cell at [8][4]=4, Cell at [6][6]=9, Cell at [6][0]=5, Cell at [6][1]=2, Cell at [6][7]=6, Cell at [6][8]=4, Cell at [6][2]=1, Cell at [6][3]=3, Cell at [6][4]=7, Cell at [6][5]=8, Cell at [3][4]=9, Cell at [5][4]=5, Cell at [4][4]=8, Cell at [1][5]=1, Cell at [0][1]=5, Cell at [0][2]=2, Cell at [0][3]=9, Cell at [0][6]=6, Cell at [0][8]=7, Cell at [1][0]=7, Cell at [1][1]=6, Cell at [1][2]=3, Cell at [1][4]=2, Cell at [1][7]=4, Cell at [1][8]=9, Cell at [2][0]=9, Cell at [2][1]=8, Cell at [2][3]=5, Cell at [2][5]=7, Cell at [2][6]=3, Cell at [3][0]=6, Cell at [3][3]=4, Cell at [3][5]=3, Cell at [3][6]=2, Cell at [3][7]=7, Cell at [3][8]=5, Cell at [4][1]=7, Cell at [4][2]=5, Cell at [4][6]=4, Cell at [4][7]=9, Cell at [5][0]=2, Cell at [5][1]=4, Cell at [5][2]=9, Cell at [5][3]=7, Cell at [5][5]=6, Cell at [5][8]=3, Cell at [7][0]=4, Cell at [7][1]=3, Cell at [7][3]=2, Cell at [7][4]=1, Cell at [7][6]=7, Cell at [7][7]=5, Cell at [7][8]=8, Cell at [8][0]=8, Cell at [8][2]=7, Cell at [8][5]=5, Cell at [8][6]=1, Cell at [8][7]=3}
+Time to solve = 0.036segundos
+SOLUCION:
+152934687
+763821549
+984567321
+618493275
+375182496
+249756813
+521378964
+436219758
+897645132
+Sudoku solucionado correctamente
+---------
+...92....
+..68.3...
+19..7...6
+23..4.1..
+..1...7..
+..8.3..29
+7...8..91
+...5.72..
+....64...
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [1][2]=6, Cell at [2][8]=6, Cell at [3][1]=3, Cell at [4][2]=1, Cell at [4][6]=7, Cell at [6][0]=7, Cell at [7][6]=2, Cell at [2][1]=9, Cell at [3][0]=2, Cell at [3][6]=1, Cell at [5][7]=2, Cell at [6][7]=9, Cell at [2][0]=1, Cell at [5][2]=8, Cell at [5][8]=9, Cell at [6][8]=1, Cell at [4][4]=5, Cell at [5][5]=1, Cell at [3][4]=4, Cell at [0][3]=9, Cell at [5][4]=3, Cell at [8][3]=1, Cell at [0][5]=6, Cell at [1][3]=8, Cell at [7][3]=5, Cell at [8][5]=4, Cell at [1][5]=3, Cell at [7][5]=7, Cell at [0][4]=2, Cell at [2][3]=4, Cell at [6][3]=3, Cell at [8][4]=6, Cell at [1][4]=1, Cell at [2][5]=5, Cell at [6][5]=2, Cell at [7][4]=9, Cell at [2][4]=7, Cell at [6][4]=8, Cell at [7][2]=3, Cell at [2][2]=2, Cell at [4][1]=6, Cell at [4][3]=2, Cell at [2][7]=3, Cell at [2][6]=8, Cell at [0][6]=4, Cell at [8][2]=9, Cell at [8][0]=8, Cell at [0][8]=5, Cell at [0][0]=3, Cell at [0][1]=8, Cell at [0][2]=7, Cell at [0][7]=1, Cell at [1][0]=5, Cell at [1][1]=4, Cell at [1][6]=9, Cell at [1][7]=7, Cell at [1][8]=2, Cell at [3][2]=5, Cell at [3][3]=7, Cell at [3][5]=9, Cell at [3][7]=6, Cell at [3][8]=8, Cell at [4][0]=9, Cell at [4][5]=8, Cell at [4][7]=4, Cell at [4][8]=3, Cell at [5][0]=4, Cell at [5][1]=7, Cell at [5][3]=6, Cell at [5][6]=5, Cell at [6][1]=5, Cell at [6][2]=4, Cell at [6][6]=6, Cell at [7][0]=6, Cell at [7][1]=1, Cell at [7][7]=8, Cell at [7][8]=4, Cell at [8][1]=2, Cell at [8][6]=3, Cell at [8][7]=5, Cell at [8][8]=7}
+Time to solve = 0.033segundos
+SOLUCION:
+387926415
+546813972
+192475836
+235749168
+961258743
+478631529
+754382691
+613597284
+829164357
+Sudoku solucionado correctamente
+---------
+.6.5.4.3.
+1...9...8
+.........
+9...5...6
+.4.6.2.7.
+7...4...5
+.........
+4...8...1
+.5.2.3.4.
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][1]=6, Cell at [0][7]=3, Cell at [1][0]=1, Cell at [1][8]=8, Cell at [7][0]=4, Cell at [7][8]=1, Cell at [8][1]=5, Cell at [8][7]=4, Cell at [0][3]=5, Cell at [0][5]=4, Cell at [1][4]=9, Cell at [3][0]=9, Cell at [3][8]=6, Cell at [4][1]=4, Cell at [4][7]=7, Cell at [5][0]=7, Cell at [5][8]=5, Cell at [7][4]=8, Cell at [8][3]=2, Cell at [8][5]=3, Cell at [3][4]=5, Cell at [4][3]=6, Cell at [4][5]=2, Cell at [5][4]=4, Cell at [1][3]=3, Cell at [1][1]=2, Cell at [8][0]=6, Cell at [0][0]=8, Cell at [0][2]=9, Cell at [2][1]=7, Cell at [2][3]=1, Cell at [6][0]=2, Cell at [7][2]=3, Cell at [0][4]=7, Cell at [0][6]=1, Cell at [0][8]=2, Cell at [1][2]=4, Cell at [1][5]=6, Cell at [1][6]=7, Cell at [1][7]=5, Cell at [2][0]=3, Cell at [2][2]=5, Cell at [2][4]=2, Cell at [2][5]=8, Cell at [2][6]=6, Cell at [2][7]=9, Cell at [2][8]=4, Cell at [3][1]=3, Cell at [3][2]=2, Cell at [3][3]=8, Cell at [3][5]=7, Cell at [3][6]=4, Cell at [3][7]=1, Cell at [4][0]=5, Cell at [4][2]=1, Cell at [4][4]=3, Cell at [4][6]=8, Cell at [4][8]=9, Cell at [5][1]=8, Cell at [5][2]=6, Cell at [5][3]=9, Cell at [5][5]=1, Cell at [5][6]=3, Cell at [5][7]=2, Cell at [6][1]=1, Cell at [6][2]=7, Cell at [6][3]=4, Cell at [6][4]=6, Cell at [6][5]=9, Cell at [6][6]=5, Cell at [6][7]=8, Cell at [6][8]=3, Cell at [7][1]=9, Cell at [7][3]=7, Cell at [7][5]=5, Cell at [7][6]=2, Cell at [7][7]=6, Cell at [8][2]=8, Cell at [8][4]=1, Cell at [8][6]=9, Cell at [8][8]=7}
+Time to solve = 0.075segundos
+SOLUCION:
+869574132
+124396758
+375128694
+932857416
+541632879
+786941325
+217469583
+493785261
+658213947
+Sudoku solucionado correctamente
+---------
+7.....4..
+.2..7..8.
+..3..8.79
+9..5..3..
+.6..2..9.
+..1.97..6
+...3..9..
+.3..4..6.
+..9..1.35
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][0]=7, Cell at [6][3]=3, Cell at [3][0]=9, Cell at [7][1]=3, Cell at [0][6]=4, Cell at [1][1]=2, Cell at [1][4]=7, Cell at [2][5]=8, Cell at [3][3]=5, Cell at [3][6]=3, Cell at [4][1]=6, Cell at [6][6]=9, Cell at [8][2]=9, Cell at [2][2]=3, Cell at [5][2]=1, Cell at [5][8]=6, Cell at [7][4]=4, Cell at [8][5]=1, Cell at [2][8]=9, Cell at [4][4]=2, Cell at [4][7]=9, Cell at [5][5]=7, Cell at [8][8]=5, Cell at [1][7]=8, Cell at [5][4]=9, Cell at [7][7]=6, Cell at [2][7]=7, Cell at [8][7]=3, Cell at [1][8]=3, Cell at [3][5]=6, Cell at [6][5]=2, Cell at [0][8]=1, Cell at [5][3]=4, Cell at [4][5]=3, Cell at [0][5]=5, Cell at [5][0]=3, Cell at [0][2]=8, Cell at [5][6]=2, Cell at [0][1]=9, Cell at [5][1]=8, Cell at [6][4]=5, Cell at [7][5]=9, Cell at [4][3]=1, Cell at [5][7]=5, Cell at [8][4]=6, Cell at [1][3]=9, Cell at [2][3]=2, Cell at [0][7]=2, Cell at [3][4]=8, Cell at [1][5]=4, Cell at [2][4]=1, Cell at [0][3]=6, Cell at [0][4]=3, Cell at [8][1]=4, Cell at [1][0]=1, Cell at [1][2]=6, Cell at [1][6]=5, Cell at [2][0]=4, Cell at [2][1]=5, Cell at [2][6]=6, Cell at [3][1]=7, Cell at [3][2]=2, Cell at [3][7]=1, Cell at [3][8]=4, Cell at [4][0]=5, Cell at [4][2]=4, Cell at [4][6]=8, Cell at [4][8]=7, Cell at [6][0]=6, Cell at [6][1]=1, Cell at [6][2]=7, Cell at [6][7]=4, Cell at [6][8]=8, Cell at [7][0]=8, Cell at [7][2]=5, Cell at [7][3]=7, Cell at [7][6]=1, Cell at [7][8]=2, Cell at [8][0]=2, Cell at [8][3]=8, Cell at [8][6]=7}
+Time to solve = 0.05segundos
+SOLUCION:
+798635421
+126974583
+453218679
+972586314
+564123897
+381497256
+617352948
+835749162
+249861735
+Sudoku solucionado correctamente
+---------
+....7..2.
+8.......6
+.1.2.5...
+9.54....8
+.........
+3....85.1
+...3.2.8.
+4.......9
+.7..6....
+SUDOKU INCOMPLETO - Resolviendo
+{Cell at [0][7]=2, Cell at [8][1]=7, Cell at [0][4]=7, Cell at [2][1]=1, Cell at [6][7]=8, Cell at [8][4]=6, Cell at [1][0]=8, Cell at [1][8]=6, Cell at [3][2]=5, Cell at [5][6]=5, Cell at [7][0]=4, Cell at [7][8]=9, Cell at [2][3]=2, Cell at [2][5]=5, Cell at [3][3]=4, Cell at [5][5]=8, Cell at [6][3]=3, Cell at [6][5]=2, Cell at [3][0]=9, Cell at [3][8]=8, Cell at [5][0]=3, Cell at [5][8]=1, Cell at [0][0]=5, Cell at [1][3]=9, Cell at [5][4]=9, Cell at [7][5]=7, Cell at [0][8]=3, Cell at [3][1]=6, Cell at [6][1]=5, Cell at [3][7]=7, Cell at [2][7]=9, Cell at [4][8]=2, Cell at [3][6]=3, Cell at [3][4]=2, Cell at [3][5]=1, Cell at [4][1]=8, Cell at [8][0]=2, Cell at [7][1]=3, Cell at [8][6]=4, Cell at [8][5]=9, Cell at [2][8]=4, Cell at [6][8]=7, Cell at [8][8]=5, Cell at [1][6]=7, Cell at [0][1]=9, Cell at [0][2]=4, Cell at [0][3]=8, Cell at [0][5]=6, Cell at [0][6]=1, Cell at [1][1]=2, Cell at [1][2]=3, Cell at [1][4]=1, Cell at [1][5]=4, Cell at [1][7]=5, Cell at [2][0]=6, Cell at [2][2]=7, Cell at [2][4]=3, Cell at [2][6]=8, Cell at [4][0]=7, Cell at [4][2]=1, Cell at [4][3]=6, Cell at [4][4]=5, Cell at [4][5]=3, Cell at [4][6]=9, Cell at [4][7]=4, Cell at [5][1]=4, Cell at [5][2]=2, Cell at [5][3]=7, Cell at [5][7]=6, Cell at [6][0]=1, Cell at [6][2]=9, Cell at [6][4]=4, Cell at [6][6]=6, Cell at [7][2]=6, Cell at [7][3]=5, Cell at [7][4]=8, Cell at [7][6]=2, Cell at [7][7]=1, Cell at [8][2]=8, Cell at [8][3]=1, Cell at [8][7]=3}
+Time to solve = 0.173segundos
+SOLUCION:
+594876123
+823914756
+617235894
+965421378
+781653942
+342798561
+159342687
+436587219
+278169435
+Sudoku solucionado correctamente
++++++++++
+Numero de sudokus solucionados:156

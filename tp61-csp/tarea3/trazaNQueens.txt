@@ -1,0 +1,580 @@
+---------
+{Q1=3, Q2=5, Q3=2, Q4=8, Q5=1, Q6=7, Q7=4, Q8=6}
+Time to solve = 0.005segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=8, Q2=2, Q3=5, Q4=3, Q5=1, Q6=7, Q7=4, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ Q  -  -  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+{Q1=4, Q2=7, Q3=5, Q4=2, Q5=6, Q6=1, Q7=3, Q8=8}
+Time to solve = 0.002segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=7, Q3=1, Q4=8, Q5=5, Q6=2, Q7=6, Q8=3}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=5, Q3=8, Q4=4, Q5=1, Q6=7, Q7=2, Q8=6}
+Time to solve = 0.0segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=8, Q2=2, Q3=5, Q4=3, Q5=1, Q6=7, Q7=4, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ Q  -  -  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=5, Q2=8, Q3=4, Q4=1, Q5=3, Q6=6, Q7=2, Q8=7}
+Time to solve = 0.0segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=6, Q2=2, Q3=7, Q4=1, Q5=4, Q6=8, Q7=5, Q8=3}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=6, Q3=4, Q4=1, Q5=8, Q6=5, Q7=7, Q8=2}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=6, Q3=4, Q4=1, Q5=8, Q6=5, Q7=7, Q8=2}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=7, Q2=4, Q3=2, Q4=8, Q5=6, Q6=1, Q7=3, Q8=5}
+Time to solve = 0.0segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  Q  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=6, Q2=4, Q3=1, Q4=5, Q5=8, Q6=2, Q7=7, Q8=3}
+Time to solve = 0.003segundos
+SOLUCION:
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=6, Q3=2, Q4=5, Q5=8, Q6=1, Q7=7, Q8=4}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=5, Q2=2, Q3=8, Q4=1, Q5=4, Q6=7, Q7=3, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=6, Q2=4, Q3=1, Q4=5, Q5=8, Q6=2, Q7=7, Q8=3}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=7, Q3=1, Q4=8, Q5=5, Q6=2, Q7=6, Q8=3}
+Time to solve = 0.002segundos
+SOLUCION:
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+{Q1=2, Q2=8, Q3=6, Q4=1, Q5=3, Q6=5, Q7=7, Q8=4}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=5, Q3=2, Q4=8, Q5=1, Q6=7, Q7=4, Q8=6}
+Time to solve = 0.002segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=2, Q2=6, Q3=1, Q4=7, Q5=4, Q6=8, Q7=3, Q8=5}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  Q  -  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+{Q1=6, Q2=2, Q3=7, Q4=1, Q5=4, Q6=8, Q7=5, Q8=3}
+Time to solve = 0.002segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=7, Q2=4, Q3=2, Q4=5, Q5=8, Q6=1, Q7=3, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=5, Q2=7, Q3=2, Q4=4, Q5=8, Q6=1, Q7=3, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=6, Q3=8, Q4=2, Q5=7, Q6=1, Q7=3, Q8=5}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=5, Q2=3, Q3=8, Q4=4, Q5=7, Q6=1, Q7=6, Q8=2}
+Time to solve = 0.0segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=7, Q3=5, Q4=2, Q5=6, Q6=1, Q7=3, Q8=8}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=7, Q3=2, Q4=8, Q5=5, Q6=1, Q7=4, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=6, Q3=4, Q4=2, Q5=8, Q6=5, Q7=7, Q8=1}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  -  -  Q 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+NQueens NO solucionado
+---------
+NQueens NO solucionado
+---------
+{Q1=5, Q2=1, Q3=4, Q4=6, Q5=8, Q6=2, Q7=7, Q8=3}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  Q  -  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=7, Q3=5, Q4=2, Q5=6, Q6=1, Q7=3, Q8=8}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=6, Q3=4, Q4=2, Q5=8, Q6=5, Q7=7, Q8=1}
+Time to solve = 0.0segundos
+SOLUCION:
+ -  -  -  -  -  -  -  Q 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=6, Q2=3, Q3=1, Q4=8, Q5=5, Q6=2, Q7=4, Q8=7}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  -  Q  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+{Q1=7, Q2=1, Q3=3, Q4=8, Q5=6, Q6=4, Q7=2, Q8=5}
+Time to solve = 0.002segundos
+SOLUCION:
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  Q  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+{Q1=7, Q2=2, Q3=4, Q4=1, Q5=8, Q6=5, Q7=3, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  -  -  -  -  Q 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=3, Q2=6, Q3=8, Q4=2, Q5=4, Q6=1, Q7=7, Q8=5}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+{Q1=3, Q2=8, Q3=4, Q4=7, Q5=1, Q6=6, Q7=2, Q8=5}
+Time to solve = 0.0segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=7, Q3=5, Q4=2, Q5=6, Q6=1, Q7=3, Q8=8}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  -  Q  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+
+NQueens solucionado correctamente
+---------
+NQueens NO solucionado
+---------
+{Q1=3, Q2=5, Q3=8, Q4=4, Q5=1, Q6=7, Q7=2, Q8=6}
+Time to solve = 0.001segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=2, Q3=8, Q4=6, Q5=1, Q6=3, Q7=5, Q8=7}
+Time to solve = 0.0segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  -  -  Q  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=4, Q2=6, Q3=8, Q4=3, Q5=1, Q6=7, Q7=5, Q8=2}
+Time to solve = 0.002segundos
+SOLUCION:
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  Q  -  -  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  Q  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  Q  -  - 
+ -  -  Q  -  -  -  -  - 
+
+NQueens solucionado correctamente
+---------
+{Q1=5, Q2=2, Q3=6, Q4=1, Q5=7, Q6=4, Q7=8, Q8=3}
+Time to solve = 0.004segundos
+SOLUCION:
+ -  -  -  Q  -  -  -  - 
+ -  Q  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  Q 
+ -  -  -  -  -  Q  -  - 
+ Q  -  -  -  -  -  -  - 
+ -  -  Q  -  -  -  -  - 
+ -  -  -  -  Q  -  -  - 
+ -  -  -  -  -  -  Q  - 
+
+NQueens solucionado correctamente
